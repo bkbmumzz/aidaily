@@ -5,7 +5,7 @@
   "latest_date": "2026-06-02",
   "latest_repo_count": 352,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-02T03:36:25.757946",
+  "updated_at": "2026-06-02T23:44:12.035796",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -38,29 +38,29 @@
       ],
       "top_repos": [
         {
+          "name": "chopratejas/headroom",
+          "stars": 6299,
+          "stars_today": 1266
+        },
+        {
           "name": "microsoft/markitdown",
-          "stars": 138863,
-          "stars_today": 3034
+          "stars": 141053,
+          "stars_today": 3616
         },
         {
-          "name": "nesquena/hermes-webui",
-          "stars": 11509,
-          "stars_today": 945
-        },
-        {
-          "name": "supermemoryai/supermemory",
-          "stars": 24087,
-          "stars_today": 647
-        },
-        {
-          "name": "harry0703/MoneyPrinterTurbo",
-          "stars": 77044,
-          "stars_today": 3375
+          "name": "affaan-m/ECC",
+          "stars": 203872,
+          "stars_today": 1597
         },
         {
           "name": "D4Vinci/Scrapling",
-          "stars": 58229,
-          "stars_today": 1486
+          "stars": 59122,
+          "stars_today": 1196
+        },
+        {
+          "name": "nesquena/hermes-webui",
+          "stars": 12513,
+          "stars_today": 1725
         }
       ]
     }
