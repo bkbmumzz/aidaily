@@ -1,0 +1,68 @@
+{
+  "dates": [
+    "2026-06-02"
+  ],
+  "latest_date": "2026-06-02",
+  "latest_repo_count": 352,
+  "latest_issue_count": 40,
+  "updated_at": "2026-06-02T03:36:25.757946",
+  "daily_stats": {
+    "2026-06-02": {
+      "repo_count": 352,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "microsoft/markitdown",
+          "stars": 138863,
+          "stars_today": 3034
+        },
+        {
+          "name": "nesquena/hermes-webui",
+          "stars": 11509,
+          "stars_today": 945
+        },
+        {
+          "name": "supermemoryai/supermemory",
+          "stars": 24087,
+          "stars_today": 647
+        },
+        {
+          "name": "harry0703/MoneyPrinterTurbo",
+          "stars": 77044,
+          "stars_today": 3375
+        },
+        {
+          "name": "D4Vinci/Scrapling",
+          "stars": 58229,
+          "stars_today": 1486
+        }
+      ]
+    }
+  }
+}
