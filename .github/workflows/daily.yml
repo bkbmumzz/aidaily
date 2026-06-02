@@ -27,7 +27,7 @@ jobs:
       - name: Run daily report
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python -m src.main
+        run: python src/main.py
 
       - name: Commit and push data
         run: |
