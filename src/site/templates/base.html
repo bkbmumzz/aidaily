@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}GitHub 每日热门开源项目{% endblock %}</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+    tailwind.config = {
+        theme: {
+            extend: {
+                colors: {
+                    primary: '#1a1a2e',
+                    accent: '#0366d6',
+                    'bg-alt': '#f6f8fa',
+                    border: '#e1e4e8',
+                    'text-light': '#586069',
+                    nav: '#24292e',
+                    card: '#ffffff',
+                    hover: '#f0f3f6',
+                }
+            }
+        }
+    }
+    </script>
+</head>
+<body class="bg-bg-alt text-primary min-h-screen flex flex-col font-sans">
+    <nav class="bg-nav text-white py-4 mb-6 shadow-md">
+        <div class="max-w-6xl mx-auto px-6 flex items-center justify-between">
+            <a href="{{ base_url }}/index.html" class="text-white no-underline text-xl font-bold tracking-tight">🔥 GitHub Daily</a>
+            <div class="flex gap-6 text-sm">
+                <a href="{{ base_url }}/index.html" class="text-gray-300 no-underline hover:text-white transition">首页</a>
+            </div>
+        </div>
+    </nav>
+    <main class="max-w-6xl mx-auto px-6 flex-1 w-full pb-12">
+        {% block content %}{% endblock %}
+    </main>
+    <footer class="bg-white border-t border-border py-6 text-center text-gray-500 text-sm mt-auto">
+        <div class="max-w-6xl mx-auto px-6">
+            <p>由 <a href="https://github.com" class="text-accent no-underline hover:underline">aidaily</a> 自动生成 · 数据来源 <a href="https://github.com/trending" class="text-accent no-underline hover:underline">GitHub Trending</a></p>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}GitHub 每日热门开源项目{% endblock %}
+{% block content %}
+<div class="mb-8">
+    <h1 class="text-3xl font-bold mb-2">🔥 GitHub 每日热门开源项目</h1>
+    <p class="text-text-light text-base">每日自动抓取 GitHub Trending，发现最值得关注的开源项目</p>
+</div>
+
+{% if top_repos %}
+<section class="mb-10">
+    <h2 class="text-xl font-semibold mb-4 flex items-center gap-2">
+        <span>⭐ 今日 Trending Top 5</span>
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {% for repo in top_repos %}
+        <a href="{{ repo.url }}" target="_blank" class="block bg-card p-5 rounded-lg border border-border no-underline text-primary hover:shadow-lg hover:border-accent/40 transition-all duration-200">
+            <div class="flex justify-between items-start mb-2">
+                <h3 class="text-accent font-semibold text-base leading-tight">{{ repo.name }}</h3>
+                {% if repo.language %}
+                <span class="text-xs px-2 py-0.5 rounded-full bg-bg-alt text-text-light ml-2 shrink-0">{{ repo.language }}</span>
+                {% endif %}
+            </div>
+            <p class="text-sm text-text-light mb-3 leading-relaxed line-clamp-2">{{ repo.description | truncate(100) }}</p>
+            <div class="flex gap-3 text-xs text-text-light items-center">
+                <span>⭐ {{ repo.stars | format_number }}</span>
+                {% if repo.stars_today %}
+                <span class="text-green font-bold">+{{ repo.stars_today | format_number }}</span>
+                {% endif %}
+                <span>🍴 {{ repo.forks | format_number }}</span>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}
+
+<section class="mb-10">
+    <h2 class="text-xl font-semibold mb-4">📅 历史报告</h2>
+    {% if available_dates %}
+    <div class="grid grid-cols-3 sm:grid-cols-5 md:grid-cols-7 lg:grid-cols-10 gap-3">
+        {% for date in available_dates %}
+        <a href="{{ base_url }}/daily/{{ date }}.html" class="flex flex-col items-center py-3 px-2 bg-card border border-border rounded-lg no-underline text-primary hover:border-accent hover:shadow-sm transition-all text-sm font-medium">
+            {{ date[5:] }}
+        </a>
+        {% endfor %}
+    </div>
+    {% else %}
+    <p class="text-text-light italic text-center py-8">暂无历史数据</p>
+    {% endif %}
+</section>
+{% endblock %}

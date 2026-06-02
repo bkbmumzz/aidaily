@@ -1,0 +1,181 @@
+{% extends "base.html" %}
+{% block title %}{{ report.date }} - GitHub 每日热门项目{% endblock %}
+{% block content %}
+<div class="mb-8">
+    <h1 class="text-3xl font-bold mb-2">📊 {{ report.date }} 热门开源项目日报</h1>
+    <p class="text-text-light text-sm">生成时间: {{ report.generated_at }}</p>
+</div>
+
+{% if report.trending_repos.get("daily") %}
+<section class="mb-8">
+    <h2 class="text-xl font-semibold mb-4">🔥 今日 Trending 总榜</h2>
+    <div class="bg-card rounded-lg border border-border overflow-hidden">
+        <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+                <thead>
+                    <tr class="bg-bg-alt">
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">#</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">项目</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">描述</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">语言</th>
+                        <th class="px-4 py-3 text-right text-xs font-semibold text-text-light uppercase tracking-wide">⭐ Stars</th>
+                        <th class="px-4 py-3 text-right text-xs font-semibold text-text-light uppercase tracking-wide">今日新增</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for repo in report.trending_repos["daily"] %}
+                <tr class="border-t border-border hover:bg-hover transition-colors">
+                    <td class="px-4 py-3 font-medium text-text-light">{{ loop.index }}</td>
+                    <td class="px-4 py-3"><a href="{{ repo.url }}" target="_blank" class="text-accent no-underline hover:underline font-medium">{{ repo.name }}</a></td>
+                    <td class="px-4 py-3 text-text-light max-w-xs">{{ repo.description | truncate(50) }}</td>
+                    <td class="px-4 py-3"><span class="text-xs px-2 py-0.5 rounded-full bg-bg-alt text-text-light">{{ repo.language or "-" }}</span></td>
+                    <td class="px-4 py-3 text-right font-mono">{{ repo.stars | format_number }}</td>
+                    <td class="px-4 py-3 text-right font-mono text-green font-semibold">{% if repo.stars_today %}+{{ repo.stars_today | format_number }}{% else %}-{% endif %}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{% for lang in ["python", "javascript", "typescript", "go", "rust", "java", "c++"] %}
+{% set lang_key = lang + "_daily" %}
+{% if report.trending_repos.get(lang_key) %}
+<section class="mb-8">
+    <h2 class="text-xl font-semibold mb-4">🐍 {{ lang | capitalize }} Trending</h2>
+    <div class="bg-card rounded-lg border border-border overflow-hidden">
+        <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+                <thead>
+                    <tr class="bg-bg-alt">
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">项目</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">描述</th>
+                        <th class="px-4 py-3 text-right text-xs font-semibold text-text-light uppercase tracking-wide">⭐ Stars</th>
+                        <th class="px-4 py-3 text-right text-xs font-semibold text-text-light uppercase tracking-wide">今日新增</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for repo in report.trending_repos[lang_key] %}
+                <tr class="border-t border-border hover:bg-hover transition-colors">
+                    <td class="px-4 py-3"><a href="{{ repo.url }}" target="_blank" class="text-accent no-underline hover:underline font-medium">{{ repo.name }}</a></td>
+                    <td class="px-4 py-3 text-text-light max-w-xs">{{ repo.description | truncate(50) }}</td>
+                    <td class="px-4 py-3 text-right font-mono">{{ repo.stars | format_number }}</td>
+                    <td class="px-4 py-3 text-right font-mono text-green font-semibold">{% if repo.stars_today %}+{{ repo.stars_today | format_number }}{% else %}-{% endif %}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+{% endif %}
+{% endfor %}
+
+{% if report.fast_growing_repos %}
+<section class="mb-8">
+    <h2 class="text-xl font-semibold mb-4">🚀 Star 增长最快</h2>
+    <div class="bg-card rounded-lg border border-border overflow-hidden">
+        <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+                <thead>
+                    <tr class="bg-bg-alt">
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">#</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">项目</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">描述</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">语言</th>
+                        <th class="px-4 py-3 text-right text-xs font-semibold text-text-light uppercase tracking-wide">⭐ Stars</th>
+                        <th class="px-4 py-3 text-right text-xs font-semibold text-text-light uppercase tracking-wide">🍴 Forks</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for repo in report.fast_growing_repos %}
+                <tr class="border-t border-border hover:bg-hover transition-colors">
+                    <td class="px-4 py-3 font-medium text-text-light">{{ loop.index }}</td>
+                    <td class="px-4 py-3"><a href="{{ repo.url }}" target="_blank" class="text-accent no-underline hover:underline font-medium">{{ repo.name }}</a></td>
+                    <td class="px-4 py-3 text-text-light max-w-xs">{{ repo.description | truncate(50) }}</td>
+                    <td class="px-4 py-3"><span class="text-xs px-2 py-0.5 rounded-full bg-bg-alt text-text-light">{{ repo.language or "-" }}</span></td>
+                    <td class="px-4 py-3 text-right font-mono">{{ repo.stars | format_number }}</td>
+                    <td class="px-4 py-3 text-right font-mono">{{ repo.forks | format_number }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{% if report.hot_issues %}
+<section class="mb-8">
+    <h2 class="text-xl font-semibold mb-4">💬 热门 Issue</h2>
+    <div class="bg-card rounded-lg border border-border overflow-hidden">
+        <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+                <thead>
+                    <tr class="bg-bg-alt">
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">Issue</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">仓库</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">作者</th>
+                        <th class="px-4 py-3 text-right text-xs font-semibold text-text-light uppercase tracking-wide">评论</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for issue in report.hot_issues %}
+                <tr class="border-t border-border hover:bg-hover transition-colors">
+                    <td class="px-4 py-3"><a href="{{ issue.url }}" target="_blank" class="text-accent no-underline hover:underline">{{ issue.title | truncate(50) }}</a></td>
+                    <td class="px-4 py-3"><a href="{{ issue.repo_url }}" target="_blank" class="text-accent no-underline hover:underline">{{ issue.repo_name }}</a></td>
+                    <td class="px-4 py-3">{{ issue.author }}</td>
+                    <td class="px-4 py-3 text-right font-mono">{{ issue.comments }}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{% if report.hot_prs %}
+<section class="mb-8">
+    <h2 class="text-xl font-semibold mb-4">🔀 热门 PR</h2>
+    <div class="bg-card rounded-lg border border-border overflow-hidden">
+        <div class="overflow-x-auto">
+            <table class="w-full text-sm">
+                <thead>
+                    <tr class="bg-bg-alt">
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">PR</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">仓库</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">作者</th>
+                        <th class="px-4 py-3 text-right text-xs font-semibold text-text-light uppercase tracking-wide">评论</th>
+                        <th class="px-4 py-3 text-left text-xs font-semibold text-text-light uppercase tracking-wide">状态</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for pr in report.hot_prs %}
+                <tr class="border-t border-border hover:bg-hover transition-colors">
+                    <td class="px-4 py-3"><a href="{{ pr.url }}" target="_blank" class="text-accent no-underline hover:underline">{{ pr.title | truncate(50) }}</a></td>
+                    <td class="px-4 py-3"><a href="{{ pr.repo_url }}" target="_blank" class="text-accent no-underline hover:underline">{{ pr.repo_name }}</a></td>
+                    <td class="px-4 py-3">{{ pr.author }}</td>
+                    <td class="px-4 py-3 text-right font-mono">{{ pr.comments }}</td>
+                    <td class="px-4 py-3">
+                        {% if pr.state == "open" %}
+                        <span class="text-xs px-2 py-0.5 rounded-full bg-green/10 text-green font-semibold">{{ pr.state }}</span>
+                        {% else %}
+                        <span class="text-xs px-2 py-0.5 rounded-full bg-orange/10 text-orange font-semibold">{{ pr.state }}</span>
+                        {% endif %}
+                    </td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+<div class="mt-8">
+    <a href="{{ base_url }}/index.html" class="inline-block px-4 py-2 bg-card border border-border rounded-lg text-primary no-underline text-sm hover:bg-hover transition-colors">← 返回首页</a>
+</div>
+{% endblock %}

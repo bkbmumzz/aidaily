@@ -1,0 +1,96 @@
+# GitHub 每日热门开源项目报告 - {{ date_str }}
+
+> 📅 生成时间: {{ report.generated_at }}
+
+---
+
+## 🔥 今日 Trending 总榜
+
+| 排名 | 项目 | 描述 | 语言 | ⭐ Stars | 今日新增 |
+|:---:|------|------|:---:|------:|--------:|
+{% for repo in report.trending_repos.get("daily", []) %}
+| {{ loop.index }} | [{{ repo.name }}]({{ repo.url }}) | {{ repo.description | truncate(60) }} | {{ repo.language or "-" }} | {{ repo.stars | format_number }} | {{ repo.stars_today | format_number if repo.stars_today else "-" }} |
+{% endfor %}
+
+{% if report.trending_repos.get("weekly") %}
+---
+
+## 📈 本周 Trending 总榜
+
+| 排名 | 项目 | 描述 | 语言 | ⭐ Stars | 本周新增 |
+|:---:|------|------|:---:|------:|--------:|
+{% for repo in report.trending_repos["weekly"] %}
+| {{ loop.index }} | [{{ repo.name }}]({{ repo.url }}) | {{ repo.description | truncate(60) }} | {{ repo.language or "-" }} | {{ repo.stars | format_number }} | {{ repo.stars_today | format_number if repo.stars_today else "-" }} |
+{% endfor %}
+{% endif %}
+
+{% if report.trending_repos.get("monthly") %}
+---
+
+## 📊 本月 Trending 总榜
+
+| 排名 | 项目 | 描述 | 语言 | ⭐ Stars | 本月新增 |
+|:---:|------|------|:---:|------:|--------:|
+{% for repo in report.trending_repos["monthly"] %}
+| {{ loop.index }} | [{{ repo.name }}]({{ repo.url }}) | {{ repo.description | truncate(60) }} | {{ repo.language or "-" }} | {{ repo.stars | format_number }} | {{ repo.stars_today | format_number if repo.stars_today else "-" }} |
+{% endfor %}
+{% endif %}
+
+{% for lang in ["python", "javascript", "typescript", "go", "rust", "java"] %}
+{% set lang_daily_key = lang + "_daily" %}
+{% if report.trending_repos.get(lang_daily_key) %}
+---
+
+## 🐍 {{ lang | capitalize }} Trending
+
+| 项目 | 描述 | ⭐ Stars | 今日新增 |
+|------|------|------:|--------:|
+{% for repo in report.trending_repos[lang_daily_key] %}
+| [{{ repo.name }}]({{ repo.url }}) | {{ repo.description | truncate(60) }} | {{ repo.stars | format_number }} | {{ repo.stars_today | format_number if repo.stars_today else "-" }} |
+{% endfor %}
+{% endif %}
+{% endfor %}
+
+---
+
+## 🚀 Star 增长最快
+
+| 排名 | 项目 | 描述 | 语言 | ⭐ Stars | 🍴 Forks |
+|:---:|------|------|:---:|------:|------:|
+{% for repo in report.fast_growing_repos %}
+| {{ loop.index }} | [{{ repo.name }}]({{ repo.url }}) | {{ repo.description | truncate(60) }} | {{ repo.language or "-" }} | {{ repo.stars | format_number }} | {{ repo.forks | format_number }} |
+{% endfor %}
+
+---
+
+## 🆕 新创建的高星项目
+
+| 排名 | 项目 | 描述 | 语言 | ⭐ Stars | 创建时间 |
+|:---:|------|------|:---:|------:|------|
+{% for repo in report.new_high_star_repos %}
+| {{ loop.index }} | [{{ repo.name }}]({{ repo.url }}) | {{ repo.description | truncate(60) }} | {{ repo.language or "-" }} | {{ repo.stars | format_number }} | {{ repo.created_at[:10] if repo.created_at else "-" }} |
+{% endfor %}
+
+---
+
+## 💬 热门 Issue
+
+| Issue | 仓库 | 👤 作者 | 💬 评论 | 标签 |
+|-------|------|------:|------:|------|
+{% for issue in report.hot_issues %}
+| [{{ issue.title | truncate(50) }}]({{ issue.url }}) | [{{ issue.repo_name }}]({{ issue.repo_url }}) | {{ issue.author }} | {{ issue.comments }} | {{ issue.labels | join(", ") }} |
+{% endfor %}
+
+---
+
+## 🔀 热门 PR
+
+| PR | 仓库 | 👤 作者 | 💬 评论 | 状态 |
+|----|------|------:|------:|:---:|
+{% for pr in report.hot_prs %}
+| [{{ pr.title | truncate(50) }}]({{ pr.url }}) | [{{ pr.repo_name }}]({{ pr.repo_url }}) | {{ pr.author }} | {{ pr.comments }} | {{ pr.state }} |
+{% endfor %}
+
+---
+
+*本报告由 [aidaily](https://github.com/your-username/aidaily) 自动生成*
