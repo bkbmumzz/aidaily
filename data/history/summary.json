@@ -1,13 +1,14 @@
 {
   "dates": [
+    "2026-06-05",
     "2026-06-04",
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-04",
-  "latest_repo_count": 374,
+  "latest_date": "2026-06-05",
+  "latest_repo_count": 387,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-04T23:07:21.057573",
+  "updated_at": "2026-06-05T23:04:21.689721",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -177,6 +178,63 @@
           "name": "github/spec-kit",
           "stars": 108544,
           "stars_today": 311
+        }
+      ]
+    },
+    "2026-06-05": {
+      "repo_count": 387,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "NousResearch/hermes-agent",
+          "stars": 183047,
+          "stars_today": 1821
+        },
+        {
+          "name": "chopratejas/headroom",
+          "stars": 14458,
+          "stars_today": 2503
+        },
+        {
+          "name": "CopilotKit/CopilotKit",
+          "stars": 32641,
+          "stars_today": 350
+        },
+        {
+          "name": "lfnovo/open-notebook",
+          "stars": 25961,
+          "stars_today": 1142
+        },
+        {
+          "name": "affaan-m/ECC",
+          "stars": 208313,
+          "stars_today": 1368
         }
       ]
     }
