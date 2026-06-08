@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-08",
     "2026-06-07",
     "2026-06-06",
     "2026-06-05",
@@ -7,10 +8,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-07",
-  "latest_repo_count": 361,
+  "latest_date": "2026-06-08",
+  "latest_repo_count": 373,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-07T23:01:30.563921",
+  "updated_at": "2026-06-08T23:11:17.908164",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -351,6 +352,63 @@
           "name": "lfnovo/open-notebook",
           "stars": 27200,
           "stars_today": 555
+        }
+      ]
+    },
+    "2026-06-08": {
+      "repo_count": 373,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "mvanhorn/last30days-skill",
+          "stars": 34402,
+          "stars_today": 3558
+        },
+        {
+          "name": "RyanCodrai/turbovec",
+          "stars": 8775,
+          "stars_today": 1730
+        },
+        {
+          "name": "google/skills",
+          "stars": 12362,
+          "stars_today": 481
+        },
+        {
+          "name": "refactoringhq/tolaria",
+          "stars": 13543,
+          "stars_today": 649
+        },
+        {
+          "name": "Panniantong/Agent-Reach",
+          "stars": 24040,
+          "stars_today": 796
         }
       ]
     }
