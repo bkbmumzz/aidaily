@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-11",
     "2026-06-10",
     "2026-06-09",
     "2026-06-08",
@@ -10,10 +11,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-10",
-  "latest_repo_count": 393,
+  "latest_date": "2026-06-11",
+  "latest_repo_count": 406,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-10T23:24:10.011851",
+  "updated_at": "2026-06-11T23:19:23.475222",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -525,6 +526,63 @@
           "name": "soxoj/maigret",
           "stars": 31980,
           "stars_today": 261
+        }
+      ]
+    },
+    "2026-06-11": {
+      "repo_count": 406,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "apple/container",
+          "stars": 32279,
+          "stars_today": 2419
+        },
+        {
+          "name": "addyosmani/agent-skills",
+          "stars": 54628,
+          "stars_today": 3275
+        },
+        {
+          "name": "maziyarpanahi/openmed",
+          "stars": 2731,
+          "stars_today": 427
+        },
+        {
+          "name": "phuryn/pm-skills",
+          "stars": 16171,
+          "stars_today": 1944
+        },
+        {
+          "name": "NVIDIA/SkillSpector",
+          "stars": 2605,
+          "stars_today": 308
         }
       ]
     }
