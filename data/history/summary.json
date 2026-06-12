@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-12",
     "2026-06-11",
     "2026-06-10",
     "2026-06-09",
@@ -11,10 +12,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-11",
-  "latest_repo_count": 406,
+  "latest_date": "2026-06-12",
+  "latest_repo_count": 414,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-11T23:19:23.475222",
+  "updated_at": "2026-06-12T23:14:23.693562",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -583,6 +584,63 @@
           "name": "NVIDIA/SkillSpector",
           "stars": 2605,
           "stars_today": 308
+        }
+      ]
+    },
+    "2026-06-12": {
+      "repo_count": 414,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "addyosmani/agent-skills",
+          "stars": 56720,
+          "stars_today": 2660
+        },
+        {
+          "name": "music-assistant/server",
+          "stars": 1763,
+          "stars_today": 6
+        },
+        {
+          "name": "mattermost/mattermost",
+          "stars": 37615,
+          "stars_today": 391
+        },
+        {
+          "name": "apple/container",
+          "stars": 35016,
+          "stars_today": 3513
+        },
+        {
+          "name": "iptv-org/iptv",
+          "stars": 118005,
+          "stars_today": 142
         }
       ]
     }
