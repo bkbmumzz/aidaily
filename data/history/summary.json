@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-13",
     "2026-06-12",
     "2026-06-11",
     "2026-06-10",
@@ -12,10 +13,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-12",
-  "latest_repo_count": 414,
+  "latest_date": "2026-06-13",
+  "latest_repo_count": 419,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-12T23:14:23.693562",
+  "updated_at": "2026-06-13T23:01:31.134755",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -641,6 +642,63 @@
           "name": "iptv-org/iptv",
           "stars": 118005,
           "stars_today": 142
+        }
+      ]
+    },
+    "2026-06-13": {
+      "repo_count": 419,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "iptv-org/iptv",
+          "stars": 119017,
+          "stars_today": 650
+        },
+        {
+          "name": "addyosmani/agent-skills",
+          "stars": 58281,
+          "stars_today": 1507
+        },
+        {
+          "name": "chatwoot/chatwoot",
+          "stars": 30825,
+          "stars_today": 86
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 226888,
+          "stars_today": 931
+        },
+        {
+          "name": "apple/container",
+          "stars": 36247,
+          "stars_today": 1471
         }
       ]
     }
