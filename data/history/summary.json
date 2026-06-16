@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-16",
     "2026-06-15",
     "2026-06-14",
     "2026-06-13",
@@ -15,10 +16,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-15",
+  "latest_date": "2026-06-16",
   "latest_repo_count": 406,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-15T23:44:05.675163",
+  "updated_at": "2026-06-16T23:21:48.431653",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -815,6 +816,63 @@
           "name": "chatwoot/chatwoot",
           "stars": 31660,
           "stars_today": 431
+        }
+      ]
+    },
+    "2026-06-16": {
+      "repo_count": 406,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "freeCodeCamp/freeCodeCamp",
+          "stars": 448518,
+          "stars_today": 640
+        },
+        {
+          "name": "swc-project/swc",
+          "stars": 33960,
+          "stars_today": 21
+        },
+        {
+          "name": "teslamate-org/teslamate",
+          "stars": 8395,
+          "stars_today": 214
+        },
+        {
+          "name": "iptv-org/iptv",
+          "stars": 124000,
+          "stars_today": 1196
+        },
+        {
+          "name": "puppeteer/puppeteer",
+          "stars": 94872,
+          "stars_today": 80
         }
       ]
     }
