@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-18",
     "2026-06-17",
     "2026-06-16",
     "2026-06-15",
@@ -17,10 +18,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-17",
-  "latest_repo_count": 410,
+  "latest_date": "2026-06-18",
+  "latest_repo_count": 406,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-17T23:21:35.516998",
+  "updated_at": "2026-06-18T23:42:54.882284",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -931,6 +932,63 @@
           "name": "obra/superpowers",
           "stars": 231007,
           "stars_today": 1205
+        }
+      ]
+    },
+    "2026-06-18": {
+      "repo_count": 406,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "google-research/timesfm",
+          "stars": 23121,
+          "stars_today": 858
+        },
+        {
+          "name": "n0-computer/iroh",
+          "stars": 9997,
+          "stars_today": 369
+        },
+        {
+          "name": "freeCodeCamp/freeCodeCamp",
+          "stars": 449532,
+          "stars_today": 417
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 232378,
+          "stars_today": 1435
+        },
+        {
+          "name": "zai-org/GLM-5",
+          "stars": 4110,
+          "stars_today": 286
         }
       ]
     }
