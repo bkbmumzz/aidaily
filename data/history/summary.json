@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-19",
     "2026-06-18",
     "2026-06-17",
     "2026-06-16",
@@ -18,10 +19,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-18",
-  "latest_repo_count": 406,
+  "latest_date": "2026-06-19",
+  "latest_repo_count": 382,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-18T23:42:54.882284",
+  "updated_at": "2026-06-19T22:52:56.765581",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -989,6 +990,63 @@
           "name": "zai-org/GLM-5",
           "stars": 4110,
           "stars_today": 286
+        }
+      ]
+    },
+    "2026-06-19": {
+      "repo_count": 382,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "DeusData/codebase-memory-mcp",
+          "stars": 8158,
+          "stars_today": 1055
+        },
+        {
+          "name": "google-research/timesfm",
+          "stars": 24060,
+          "stars_today": 1516
+        },
+        {
+          "name": "palmier-io/palmier-pro",
+          "stars": 1825,
+          "stars_today": 749
+        },
+        {
+          "name": "koala73/worldmonitor",
+          "stars": 57197,
+          "stars_today": 300
+        },
+        {
+          "name": "aishwaryanr/awesome-generative-ai-guide",
+          "stars": 27594,
+          "stars_today": 155
         }
       ]
     }
