@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-20",
     "2026-06-19",
     "2026-06-18",
     "2026-06-17",
@@ -19,10 +20,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-19",
-  "latest_repo_count": 382,
+  "latest_date": "2026-06-20",
+  "latest_repo_count": 401,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-19T22:52:56.765581",
+  "updated_at": "2026-06-20T23:04:06.859280",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1047,6 +1048,63 @@
           "name": "aishwaryanr/awesome-generative-ai-guide",
           "stars": 27594,
           "stars_today": 155
+        }
+      ]
+    },
+    "2026-06-20": {
+      "repo_count": 401,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "palmier-io/palmier-pro",
+          "stars": 3274,
+          "stars_today": 904
+        },
+        {
+          "name": "penpot/penpot",
+          "stars": 51362,
+          "stars_today": 424
+        },
+        {
+          "name": "calesthio/OpenMontage",
+          "stars": 7001,
+          "stars_today": 677
+        },
+        {
+          "name": "tursodatabase/turso",
+          "stars": 20294,
+          "stars_today": 774
+        },
+        {
+          "name": "DeusData/codebase-memory-mcp",
+          "stars": 9285,
+          "stars_today": 1267
         }
       ]
     }
