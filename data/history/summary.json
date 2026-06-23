@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-23",
     "2026-06-22",
     "2026-06-21",
     "2026-06-20",
@@ -22,10 +23,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-22",
-  "latest_repo_count": 379,
+  "latest_date": "2026-06-23",
+  "latest_repo_count": 401,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-22T23:16:38.747661",
+  "updated_at": "2026-06-23T23:06:00.587371",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1221,6 +1222,63 @@
           "name": "penpot/penpot",
           "stars": 52836,
           "stars_today": 730
+        }
+      ]
+    },
+    "2026-06-23": {
+      "repo_count": 401,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "calesthio/OpenMontage",
+          "stars": 15487,
+          "stars_today": 3590
+        },
+        {
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "stars": 46981,
+          "stars_today": 1121
+        },
+        {
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "stars": 19629,
+          "stars_today": 1040
+        },
+        {
+          "name": "garrytan/gstack",
+          "stars": 114022,
+          "stars_today": 1012
+        },
+        {
+          "name": "bytedance/deer-flow",
+          "stars": 73875,
+          "stars_today": 741
         }
       ]
     }
