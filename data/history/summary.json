@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-24",
     "2026-06-23",
     "2026-06-22",
     "2026-06-21",
@@ -23,10 +24,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-23",
-  "latest_repo_count": 401,
+  "latest_date": "2026-06-24",
+  "latest_repo_count": 390,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-23T23:06:00.587371",
+  "updated_at": "2026-06-24T23:02:19.086494",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1279,6 +1280,63 @@
           "name": "bytedance/deer-flow",
           "stars": 73875,
           "stars_today": 741
+        }
+      ]
+    },
+    "2026-06-24": {
+      "repo_count": 390,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "calesthio/OpenMontage",
+          "stars": 19195,
+          "stars_today": 3703
+        },
+        {
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "stars": 48421,
+          "stars_today": 1461
+        },
+        {
+          "name": "apple/container",
+          "stars": 42147,
+          "stars_today": 1746
+        },
+        {
+          "name": "interviewstreet/hiring-agent",
+          "stars": 2111,
+          "stars_today": 152
+        },
+        {
+          "name": "JCodesMore/ai-website-cloner-template",
+          "stars": 19257,
+          "stars_today": 693
         }
       ]
     }
