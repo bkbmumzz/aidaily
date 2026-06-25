@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-25",
     "2026-06-24",
     "2026-06-23",
     "2026-06-22",
@@ -24,10 +25,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-24",
-  "latest_repo_count": 390,
+  "latest_date": "2026-06-25",
+  "latest_repo_count": 402,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-24T23:02:19.086494",
+  "updated_at": "2026-06-25T23:14:38.333879",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1337,6 +1338,63 @@
           "name": "JCodesMore/ai-website-cloner-template",
           "stars": 19257,
           "stars_today": 693
+        }
+      ]
+    },
+    "2026-06-25": {
+      "repo_count": 402,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "google-labs-code/design.md",
+          "stars": 19083,
+          "stars_today": 1407
+        },
+        {
+          "name": "calesthio/OpenMontage",
+          "stars": 21992,
+          "stars_today": 3553
+        },
+        {
+          "name": "xbtlin/ai-berkshire",
+          "stars": 1805,
+          "stars_today": 201
+        },
+        {
+          "name": "mauriceboe/TREK",
+          "stars": 6596,
+          "stars_today": 112
+        },
+        {
+          "name": "apple/container",
+          "stars": 43180,
+          "stars_today": 1366
         }
       ]
     }
