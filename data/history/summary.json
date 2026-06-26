@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-26",
     "2026-06-25",
     "2026-06-24",
     "2026-06-23",
@@ -25,10 +26,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-25",
-  "latest_repo_count": 402,
+  "latest_date": "2026-06-26",
+  "latest_repo_count": 405,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-25T23:14:38.333879",
+  "updated_at": "2026-06-26T23:02:59.741112",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1395,6 +1396,63 @@
           "name": "apple/container",
           "stars": 43180,
           "stars_today": 1366
+        }
+      ]
+    },
+    "2026-06-26": {
+      "repo_count": 405,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "simplex-chat/simplex-chat",
+          "stars": 12481,
+          "stars_today": 191
+        },
+        {
+          "name": "google-labs-code/design.md",
+          "stars": 21168,
+          "stars_today": 2319
+        },
+        {
+          "name": "commaai/openpilot",
+          "stars": 61769,
+          "stars_today": 67
+        },
+        {
+          "name": "kunchenguid/no-mistakes",
+          "stars": 3399,
+          "stars_today": 412
+        },
+        {
+          "name": "grafana/grafana",
+          "stars": 74879,
+          "stars_today": 17
         }
       ]
     }
