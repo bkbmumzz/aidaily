@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-28",
     "2026-06-27",
     "2026-06-26",
     "2026-06-25",
@@ -27,10 +28,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-27",
-  "latest_repo_count": 403,
+  "latest_date": "2026-06-28",
+  "latest_repo_count": 404,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-27T23:00:03.443715",
+  "updated_at": "2026-06-28T23:00:02.622544",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1511,6 +1512,63 @@
           "name": "ripienaar/free-for-dev",
           "stars": 124151,
           "stars_today": 459
+        }
+      ]
+    },
+    "2026-06-28": {
+      "repo_count": 404,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "simplex-chat/simplex-chat",
+          "stars": 14934,
+          "stars_today": 1183
+        },
+        {
+          "name": "ripienaar/free-for-dev",
+          "stars": 125126,
+          "stars_today": 472
+        },
+        {
+          "name": "commaai/openpilot",
+          "stars": 62353,
+          "stars_today": 265
+        },
+        {
+          "name": "xbtlin/ai-berkshire",
+          "stars": 5245,
+          "stars_today": 1456
+        },
+        {
+          "name": "Robbyant/lingbot-map",
+          "stars": 8191,
+          "stars_today": 372
         }
       ]
     }
