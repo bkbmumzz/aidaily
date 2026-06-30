@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-06-30",
     "2026-06-29",
     "2026-06-28",
     "2026-06-27",
@@ -29,10 +30,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-29",
-  "latest_repo_count": 415,
+  "latest_date": "2026-06-30",
+  "latest_repo_count": 404,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-29T22:52:59.222236",
+  "updated_at": "2026-06-30T23:07:38.983474",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1627,6 +1628,63 @@
           "name": "soxoj/maigret",
           "stars": 34337,
           "stars_today": 191
+        }
+      ]
+    },
+    "2026-06-30": {
+      "repo_count": 404,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "hasaneyldrm/exercises-dataset",
+          "stars": 6495,
+          "stars_today": 1413
+        },
+        {
+          "name": "usestrix/strix",
+          "stars": 28076,
+          "stars_today": 395
+        },
+        {
+          "name": "msitarzewski/agency-agents",
+          "stars": 120784,
+          "stars_today": 1793
+        },
+        {
+          "name": "altic-dev/FluidVoice",
+          "stars": 4889,
+          "stars_today": 586
+        },
+        {
+          "name": "diegosouzapw/OmniRoute",
+          "stars": 8438,
+          "stars_today": 459
         }
       ]
     }
