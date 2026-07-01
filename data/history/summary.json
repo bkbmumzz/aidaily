@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-01",
     "2026-06-30",
     "2026-06-29",
     "2026-06-28",
@@ -30,10 +31,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-06-30",
-  "latest_repo_count": 404,
+  "latest_date": "2026-07-01",
+  "latest_repo_count": 401,
   "latest_issue_count": 40,
-  "updated_at": "2026-06-30T23:07:38.983474",
+  "updated_at": "2026-07-01T23:10:16.738766",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1685,6 +1686,63 @@
           "name": "diegosouzapw/OmniRoute",
           "stars": 8438,
           "stars_today": 459
+        }
+      ]
+    },
+    "2026-07-01": {
+      "repo_count": 401,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "msitarzewski/agency-agents",
+          "stars": 123259,
+          "stars_today": 2097
+        },
+        {
+          "name": "usestrix/strix",
+          "stars": 29622,
+          "stars_today": 1195
+        },
+        {
+          "name": "HKUDS/Vibe-Trading",
+          "stars": 16486,
+          "stars_today": 682
+        },
+        {
+          "name": "hasaneyldrm/exercises-dataset",
+          "stars": 8356,
+          "stars_today": 2203
+        },
+        {
+          "name": "facebook/astryx",
+          "stars": 2557,
+          "stars_today": 714
         }
       ]
     }
