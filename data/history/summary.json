@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-03",
     "2026-07-02",
     "2026-07-01",
     "2026-06-30",
@@ -32,10 +33,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-02",
-  "latest_repo_count": 399,
+  "latest_date": "2026-07-03",
+  "latest_repo_count": 388,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-02T23:01:15.602549",
+  "updated_at": "2026-07-03T22:59:12.521197",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1801,6 +1802,63 @@
           "name": "santifer/career-ops",
           "stars": 57761,
           "stars_today": 322
+        }
+      ]
+    },
+    "2026-07-03": {
+      "repo_count": 388,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "usestrix/strix",
+          "stars": 34530,
+          "stars_today": 2804
+        },
+        {
+          "name": "openai/codex-plugin-cc",
+          "stars": 23176,
+          "stars_today": 629
+        },
+        {
+          "name": "JuliusBrussee/caveman",
+          "stars": 82882,
+          "stars_today": 2851
+        },
+        {
+          "name": "elastic/elasticsearch",
+          "stars": 77326,
+          "stars_today": 77
+        },
+        {
+          "name": "actions/checkout",
+          "stars": 8257,
+          "stars_today": 129
         }
       ]
     }
