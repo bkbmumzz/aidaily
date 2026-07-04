@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-04",
     "2026-07-03",
     "2026-07-02",
     "2026-07-01",
@@ -33,10 +34,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-03",
-  "latest_repo_count": 388,
+  "latest_date": "2026-07-04",
+  "latest_repo_count": 387,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-03T22:59:12.521197",
+  "updated_at": "2026-07-04T22:55:10.681608",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1859,6 +1860,63 @@
           "name": "actions/checkout",
           "stars": 8257,
           "stars_today": 129
+        }
+      ]
+    },
+    "2026-07-04": {
+      "repo_count": 387,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "openai/codex-plugin-cc",
+          "stars": 24317,
+          "stars_today": 716
+        },
+        {
+          "name": "JuliusBrussee/caveman",
+          "stars": 83899,
+          "stars_today": 1089
+        },
+        {
+          "name": "alibaba/page-agent",
+          "stars": 23068,
+          "stars_today": 726
+        },
+        {
+          "name": "usestrix/strix",
+          "stars": 35977,
+          "stars_today": 1910
+        },
+        {
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "stars": 45753,
+          "stars_today": 303
         }
       ]
     }
