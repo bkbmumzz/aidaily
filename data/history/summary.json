@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-06",
     "2026-07-05",
     "2026-07-04",
     "2026-07-03",
@@ -35,10 +36,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-05",
-  "latest_repo_count": 397,
+  "latest_date": "2026-07-06",
+  "latest_repo_count": 388,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-05T22:58:47.388870",
+  "updated_at": "2026-07-06T23:04:20.976648",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -1975,6 +1976,63 @@
           "name": "alirezarezvani/claude-skills",
           "stars": 20519,
           "stars_today": 394
+        }
+      ]
+    },
+    "2026-07-06": {
+      "repo_count": 388,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "asgeirtj/system_prompts_leaks",
+          "stars": 51433,
+          "stars_today": 1386
+        },
+        {
+          "name": "addyosmani/agent-skills",
+          "stars": 70742,
+          "stars_today": 1114
+        },
+        {
+          "name": "Zackriya-Solutions/meetily",
+          "stars": 19275,
+          "stars_today": 2493
+        },
+        {
+          "name": "ruvnet/RuView",
+          "stars": 77471,
+          "stars_today": 471
+        },
+        {
+          "name": "Leonxlnx/taste-skill",
+          "stars": 58855,
+          "stars_today": 1453
         }
       ]
     }
