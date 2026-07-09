@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-09",
     "2026-07-08",
     "2026-07-07",
     "2026-07-06",
@@ -38,10 +39,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-08",
-  "latest_repo_count": 383,
+  "latest_date": "2026-07-09",
+  "latest_repo_count": 405,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-08T23:01:40.209012",
+  "updated_at": "2026-07-09T23:08:38.435410",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -2149,6 +2150,63 @@
           "name": "mvanhorn/last30days-skill",
           "stars": 50712,
           "stars_today": 373
+        }
+      ]
+    },
+    "2026-07-09": {
+      "repo_count": 405,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "MadsLorentzen/ai-job-search",
+          "stars": 18827,
+          "stars_today": 3728
+        },
+        {
+          "name": "SmartlyDressedGames/U3-SDK",
+          "stars": 1991,
+          "stars_today": 541
+        },
+        {
+          "name": "addyosmani/agent-skills",
+          "stars": 75822,
+          "stars_today": 2582
+        },
+        {
+          "name": "VoltAgent/awesome-design-md",
+          "stars": 99595,
+          "stars_today": 1233
+        },
+        {
+          "name": "iOfficeAI/OfficeCLI",
+          "stars": 13367,
+          "stars_today": 1923
         }
       ]
     }
