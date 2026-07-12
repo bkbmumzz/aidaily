@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-12",
     "2026-07-11",
     "2026-07-10",
     "2026-07-09",
@@ -41,10 +42,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-11",
-  "latest_repo_count": 337,
+  "latest_date": "2026-07-12",
+  "latest_repo_count": 392,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-11T22:42:57.968827",
+  "updated_at": "2026-07-12T22:42:59.134158",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -2323,6 +2324,63 @@
           "name": "hashicorp/terraform",
           "stars": 49350,
           "stars_today": 229
+        }
+      ]
+    },
+    "2026-07-12": {
+      "repo_count": 392,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "Dicklesworthstone/destructive_command_guard",
+          "stars": 2796,
+          "stars_today": 444
+        },
+        {
+          "name": "wonderwhy-er/DesktopCommanderMCP",
+          "stars": 7965,
+          "stars_today": 207
+        },
+        {
+          "name": "HKUDS/Vibe-Trading",
+          "stars": 20486,
+          "stars_today": 776
+        },
+        {
+          "name": "PrefectHQ/prefect",
+          "stars": 23123,
+          "stars_today": 55
+        },
+        {
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "stars": 118473,
+          "stars_today": 450
         }
       ]
     }
