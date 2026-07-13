@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-13",
     "2026-07-12",
     "2026-07-11",
     "2026-07-10",
@@ -42,10 +43,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-12",
-  "latest_repo_count": 392,
+  "latest_date": "2026-07-13",
+  "latest_repo_count": 393,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-12T22:42:59.134158",
+  "updated_at": "2026-07-13T22:53:02.619611",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -2381,6 +2382,63 @@
           "name": "Shubhamsaboo/awesome-llm-apps",
           "stars": 118473,
           "stars_today": 450
+        }
+      ]
+    },
+    "2026-07-13": {
+      "repo_count": 393,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "OpenCut-app/OpenCut",
+          "stars": 66101,
+          "stars_today": 1077
+        },
+        {
+          "name": "HKUDS/Vibe-Trading",
+          "stars": 21681,
+          "stars_today": 1148
+        },
+        {
+          "name": "moeru-ai/airi",
+          "stars": 41841,
+          "stars_today": 57
+        },
+        {
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "stars": 119531,
+          "stars_today": 1006
+        },
+        {
+          "name": "Nutlope/hallmark",
+          "stars": 5075,
+          "stars_today": 802
         }
       ]
     }
