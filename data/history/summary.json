@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-14",
     "2026-07-13",
     "2026-07-12",
     "2026-07-11",
@@ -43,10 +44,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-13",
-  "latest_repo_count": 393,
+  "latest_date": "2026-07-14",
+  "latest_repo_count": 400,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-13T22:53:02.619611",
+  "updated_at": "2026-07-14T22:54:55.495314",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -2439,6 +2440,63 @@
           "name": "Nutlope/hallmark",
           "stars": 5075,
           "stars_today": 802
+        }
+      ]
+    },
+    "2026-07-14": {
+      "repo_count": 400,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "Shubhamsaboo/awesome-llm-apps",
+          "stars": 120724,
+          "stars_today": 1104
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 170139,
+          "stars_today": 1864
+        },
+        {
+          "name": "Dicklesworthstone/destructive_command_guard",
+          "stars": 4370,
+          "stars_today": 481
+        },
+        {
+          "name": "OpenCut-app/OpenCut",
+          "stars": 69098,
+          "stars_today": 4349
+        },
+        {
+          "name": "virattt/ai-hedge-fund",
+          "stars": 61841,
+          "stars_today": 156
         }
       ]
     }
