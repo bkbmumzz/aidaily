@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-17",
     "2026-07-16",
     "2026-07-15",
     "2026-07-14",
@@ -46,10 +47,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-16",
-  "latest_repo_count": 334,
-  "latest_issue_count": 0,
-  "updated_at": "2026-07-16T22:54:48.814710",
+  "latest_date": "2026-07-17",
+  "latest_repo_count": 392,
+  "latest_issue_count": 40,
+  "updated_at": "2026-07-17T22:44:45.342008",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -2613,6 +2614,63 @@
           "name": "openinterpreter/openinterpreter",
           "stars": 65951,
           "stars_today": 633
+        }
+      ]
+    },
+    "2026-07-17": {
+      "repo_count": 392,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "codecrafters-io/build-your-own-x",
+          "stars": 527273,
+          "stars_today": 1070
+        },
+        {
+          "name": "PostHog/posthog",
+          "stars": 36174,
+          "stars_today": 437
+        },
+        {
+          "name": "HenryNdubuaku/maths-cs-ai-compendium",
+          "stars": 6589,
+          "stars_today": 248
+        },
+        {
+          "name": "Nutlope/hallmark",
+          "stars": 11960,
+          "stars_today": 1486
+        },
+        {
+          "name": "github/copilot-sdk",
+          "stars": 9784,
+          "stars_today": 234
         }
       ]
     }
