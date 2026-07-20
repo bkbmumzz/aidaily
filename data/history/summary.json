@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-20",
     "2026-07-19",
     "2026-07-18",
     "2026-07-17",
@@ -49,10 +50,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-19",
-  "latest_repo_count": 398,
+  "latest_date": "2026-07-20",
+  "latest_repo_count": 410,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-19T22:46:48.594632",
+  "updated_at": "2026-07-20T22:55:53.792914",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -2787,6 +2788,63 @@
           "name": "jamiepine/voicebox",
           "stars": 43291,
           "stars_today": 629
+        }
+      ]
+    },
+    "2026-07-20": {
+      "repo_count": 410,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "tirth8205/code-review-graph",
+          "stars": 23033,
+          "stars_today": 1876
+        },
+        {
+          "name": "1jehuang/jcode",
+          "stars": 9582,
+          "stars_today": 612
+        },
+        {
+          "name": "diegosouzapw/OmniRoute",
+          "stars": 21689,
+          "stars_today": 1300
+        },
+        {
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "stars": 40481,
+          "stars_today": 846
+        },
+        {
+          "name": "msitarzewski/agency-agents",
+          "stars": 134668,
+          "stars_today": 744
         }
       ]
     }
