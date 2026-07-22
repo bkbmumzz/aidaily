@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-22",
     "2026-07-21",
     "2026-07-20",
     "2026-07-19",
@@ -51,10 +52,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-21",
-  "latest_repo_count": 406,
+  "latest_date": "2026-07-22",
+  "latest_repo_count": 404,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-21T22:52:24.854786",
+  "updated_at": "2026-07-22T22:58:25.237536",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -2903,6 +2904,63 @@
           "name": "earthtojake/text-to-cad",
           "stars": 9061,
           "stars_today": 378
+        }
+      ]
+    },
+    "2026-07-22": {
+      "repo_count": 404,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "koala73/worldmonitor",
+          "stars": 68812,
+          "stars_today": 4131
+        },
+        {
+          "name": "ruvnet/RuView",
+          "stars": 83712,
+          "stars_today": 875
+        },
+        {
+          "name": "ayghri/i-have-adhd",
+          "stars": 8206,
+          "stars_today": 1682
+        },
+        {
+          "name": "schollz/croc",
+          "stars": 37532,
+          "stars_today": 737
+        },
+        {
+          "name": "likec4/likec4",
+          "stars": 4251,
+          "stars_today": 172
         }
       ]
     }
