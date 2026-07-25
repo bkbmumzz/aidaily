@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-25",
     "2026-07-24",
     "2026-07-23",
     "2026-07-22",
@@ -54,10 +55,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-24",
-  "latest_repo_count": 405,
+  "latest_date": "2026-07-25",
+  "latest_repo_count": 400,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-24T22:58:15.336083",
+  "updated_at": "2026-07-25T22:51:18.033034",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3077,6 +3078,63 @@
           "name": "shiyu-coder/Kronos",
           "stars": 33468,
           "stars_today": 506
+        }
+      ]
+    },
+    "2026-07-25": {
+      "repo_count": 400,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "block/buzz",
+          "stars": 11818,
+          "stars_today": 2506
+        },
+        {
+          "name": "alibaba/open-code-review",
+          "stars": 12912,
+          "stars_today": 439
+        },
+        {
+          "name": "citrolabs/ego-lite",
+          "stars": 3522,
+          "stars_today": 986
+        },
+        {
+          "name": "ComposioHQ/awesome-claude-skills",
+          "stars": 70549,
+          "stars_today": 574
+        },
+        {
+          "name": "anthropics/claude-cookbooks",
+          "stars": 49856,
+          "stars_today": 144
         }
       ]
     }
