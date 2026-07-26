@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-26",
     "2026-07-25",
     "2026-07-24",
     "2026-07-23",
@@ -55,10 +56,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-25",
-  "latest_repo_count": 400,
+  "latest_date": "2026-07-26",
+  "latest_repo_count": 411,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-25T22:51:18.033034",
+  "updated_at": "2026-07-26T22:56:56.276598",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3135,6 +3136,63 @@
           "name": "anthropics/claude-cookbooks",
           "stars": 49856,
           "stars_today": 144
+        }
+      ]
+    },
+    "2026-07-26": {
+      "repo_count": 411,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "permissionlesstech/bitchat",
+          "stars": 30195,
+          "stars_today": 1198
+        },
+        {
+          "name": "citrolabs/ego-lite",
+          "stars": 4416,
+          "stars_today": 898
+        },
+        {
+          "name": "block/buzz",
+          "stars": 13154,
+          "stars_today": 1705
+        },
+        {
+          "name": "pingdotgg/t3code",
+          "stars": 15026,
+          "stars_today": 159
+        },
+        {
+          "name": "CoreBunch/Instatic",
+          "stars": 5624,
+          "stars_today": 892
         }
       ]
     }
