@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-27",
     "2026-07-26",
     "2026-07-25",
     "2026-07-24",
@@ -56,10 +57,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-26",
-  "latest_repo_count": 411,
-  "latest_issue_count": 40,
-  "updated_at": "2026-07-26T22:56:56.276598",
+  "latest_date": "2026-07-27",
+  "latest_repo_count": 412,
+  "latest_issue_count": 38,
+  "updated_at": "2026-07-27T22:57:13.465456",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3193,6 +3194,63 @@
           "name": "CoreBunch/Instatic",
           "stars": 5624,
           "stars_today": 892
+        }
+      ]
+    },
+    "2026-07-27": {
+      "repo_count": 412,
+      "issue_count": 38,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "permissionlesstech/bitchat",
+          "stars": 32185,
+          "stars_today": 2344
+        },
+        {
+          "name": "amnezia-vpn/amnezia-client",
+          "stars": 13775,
+          "stars_today": 515
+        },
+        {
+          "name": "moeru-ai/airi",
+          "stars": 43992,
+          "stars_today": 554
+        },
+        {
+          "name": "opengeos/GeoLibre",
+          "stars": 2631,
+          "stars_today": 420
+        },
+        {
+          "name": "yorukot/superfile",
+          "stars": 20844,
+          "stars_today": 600
         }
       ]
     }
