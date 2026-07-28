@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-28",
     "2026-07-27",
     "2026-07-26",
     "2026-07-25",
@@ -57,10 +58,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-27",
-  "latest_repo_count": 412,
-  "latest_issue_count": 38,
-  "updated_at": "2026-07-27T22:57:13.465456",
+  "latest_date": "2026-07-28",
+  "latest_repo_count": 399,
+  "latest_issue_count": 40,
+  "updated_at": "2026-07-28T22:55:43.166770",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3251,6 +3252,63 @@
           "name": "yorukot/superfile",
           "stars": 20844,
           "stars_today": 600
+        }
+      ]
+    },
+    "2026-07-28": {
+      "repo_count": 399,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "pascalorg/editor",
+          "stars": 18632,
+          "stars_today": 415
+        },
+        {
+          "name": "jenkinsci/jenkins",
+          "stars": 26059,
+          "stars_today": 180
+        },
+        {
+          "name": "moeru-ai/airi",
+          "stars": 44723,
+          "stars_today": 796
+        },
+        {
+          "name": "andrewyng/aisuite",
+          "stars": 15662,
+          "stars_today": 92
+        },
+        {
+          "name": "affaan-m/ECC",
+          "stars": 234751,
+          "stars_today": 692
         }
       ]
     }
