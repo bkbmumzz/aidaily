@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-29",
     "2026-07-28",
     "2026-07-27",
     "2026-07-26",
@@ -58,10 +59,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-28",
-  "latest_repo_count": 399,
+  "latest_date": "2026-07-29",
+  "latest_repo_count": 414,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-28T22:55:43.166770",
+  "updated_at": "2026-07-29T22:57:47.143645",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3309,6 +3310,63 @@
           "name": "affaan-m/ECC",
           "stars": 234751,
           "stars_today": 692
+        }
+      ]
+    },
+    "2026-07-29": {
+      "repo_count": 414,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "opengeos/GeoLibre",
+          "stars": 4000,
+          "stars_today": 667
+        },
+        {
+          "name": "moeru-ai/airi",
+          "stars": 45354,
+          "stars_today": 676
+        },
+        {
+          "name": "affaan-m/ECC",
+          "stars": 235522,
+          "stars_today": 860
+        },
+        {
+          "name": "huggingface/speech-to-speech",
+          "stars": 7823,
+          "stars_today": 837
+        },
+        {
+          "name": "1jehuang/jcode",
+          "stars": 13420,
+          "stars_today": 652
         }
       ]
     }
