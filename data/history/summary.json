@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-30",
     "2026-07-29",
     "2026-07-28",
     "2026-07-27",
@@ -59,10 +60,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-29",
-  "latest_repo_count": 414,
+  "latest_date": "2026-07-30",
+  "latest_repo_count": 395,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-29T22:57:47.143645",
+  "updated_at": "2026-07-30T23:01:25.970085",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3367,6 +3368,63 @@
           "name": "1jehuang/jcode",
           "stars": 13420,
           "stars_today": 652
+        }
+      ]
+    },
+    "2026-07-30": {
+      "repo_count": 395,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "huggingface/speech-to-speech",
+          "stars": 8709,
+          "stars_today": 627
+        },
+        {
+          "name": "microsoft/AI-For-Beginners",
+          "stars": 53842,
+          "stars_today": 115
+        },
+        {
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "stars": 10998,
+          "stars_today": 628
+        },
+        {
+          "name": "different-ai/openwork",
+          "stars": 18676,
+          "stars_today": 916
+        },
+        {
+          "name": "WhiskeySockets/Baileys",
+          "stars": 10421,
+          "stars_today": 12
         }
       ]
     }
