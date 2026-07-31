@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-31",
     "2026-07-30",
     "2026-07-29",
     "2026-07-28",
@@ -60,10 +61,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-07-30",
-  "latest_repo_count": 395,
+  "latest_date": "2026-07-31",
+  "latest_repo_count": 417,
   "latest_issue_count": 40,
-  "updated_at": "2026-07-30T23:01:25.970085",
+  "updated_at": "2026-07-31T22:56:22.838467",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3425,6 +3426,63 @@
           "name": "WhiskeySockets/Baileys",
           "stars": 10421,
           "stars_today": 12
+        }
+      ]
+    },
+    "2026-07-31": {
+      "repo_count": 417,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "zhaoxuya520/reverse-skill",
+          "stars": 10652,
+          "stars_today": 612
+        },
+        {
+          "name": "different-ai/openwork",
+          "stars": 19462,
+          "stars_today": 796
+        },
+        {
+          "name": "mvanhorn/last30days-skill",
+          "stars": 56195,
+          "stars_today": 660
+        },
+        {
+          "name": "paperswithbacktest/awesome-systematic-trading",
+          "stars": 11718,
+          "stars_today": 765
+        },
+        {
+          "name": "microsoft/AI-For-Beginners",
+          "stars": 55270,
+          "stars_today": 1592
         }
       ]
     }
