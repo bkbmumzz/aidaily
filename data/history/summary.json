@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-03",
     "2026-08-02",
     "2026-08-01",
     "2026-07-31",
@@ -63,10 +64,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-02",
-  "latest_repo_count": 419,
+  "latest_date": "2026-08-03",
+  "latest_repo_count": 431,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-02T22:52:08.161240",
+  "updated_at": "2026-08-03T22:57:15.310419",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3599,6 +3600,63 @@
           "name": "codecrafters-io/build-your-own-x",
           "stars": 534786,
           "stars_today": 710
+        }
+      ]
+    },
+    "2026-08-03": {
+      "repo_count": 431,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "lyogavin/airllm",
+          "stars": 26999,
+          "stars_today": 1081
+        },
+        {
+          "name": "zhaoxuya520/reverse-skill",
+          "stars": 15632,
+          "stars_today": 2442
+        },
+        {
+          "name": "firecrawl/pdf-inspector",
+          "stars": 8051,
+          "stars_today": 1769
+        },
+        {
+          "name": "esengine/DeepSeek-Reasonix",
+          "stars": 29873,
+          "stars_today": 877
+        },
+        {
+          "name": "TencentCloud/TencentDB-Agent-Memory",
+          "stars": 12022,
+          "stars_today": 1091
         }
       ]
     }
