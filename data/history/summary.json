@@ -68,9 +68,9 @@
     "2026-06-02"
   ],
   "latest_date": "2026-08-07",
-  "latest_repo_count": 423,
+  "latest_repo_count": 419,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-07T01:29:59.208829",
+  "updated_at": "2026-08-07T22:30:33.250674",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3778,7 +3778,7 @@
       ]
     },
     "2026-08-07": {
-      "repo_count": 423,
+      "repo_count": 419,
       "issue_count": 40,
       "trending_languages": [
         "daily",
@@ -3808,29 +3808,29 @@
       ],
       "top_repos": [
         {
-          "name": "TencentCloud/TencentDB-Agent-Memory",
-          "stars": 16424,
-          "stars_today": 1057
+          "name": "PrimeIntellect-ai/prime-agent",
+          "stars": 6342,
+          "stars_today": 2271
         },
         {
           "name": "addyosmani/agent-skills",
-          "stars": 82961,
-          "stars_today": 593
+          "stars": 83840,
+          "stars_today": 1131
         },
         {
           "name": "cloudflare/computer",
-          "stars": 4817,
-          "stars_today": 2802
+          "stars": 5602,
+          "stars_today": 894
         },
         {
           "name": "mattpocock/skills",
-          "stars": 207081,
-          "stars_today": 1873
+          "stars": 208719,
+          "stars_today": 2180
         },
         {
-          "name": "goauthentik/authentik",
-          "stars": 23133,
-          "stars_today": 138
+          "name": "obra/superpowers",
+          "stars": 268707,
+          "stars_today": 794
         }
       ]
     }
