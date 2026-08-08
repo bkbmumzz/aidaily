@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-08",
     "2026-08-07",
     "2026-08-05",
     "2026-08-04",
@@ -67,10 +68,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-07",
-  "latest_repo_count": 419,
+  "latest_date": "2026-08-08",
+  "latest_repo_count": 422,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-07T22:30:33.250674",
+  "updated_at": "2026-08-08T22:23:39.572147",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3831,6 +3832,63 @@
           "name": "obra/superpowers",
           "stars": 268707,
           "stars_today": 794
+        }
+      ]
+    },
+    "2026-08-08": {
+      "repo_count": 422,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "PrimeIntellect-ai/prime-agent",
+          "stars": 8734,
+          "stars_today": 2483
+        },
+        {
+          "name": "addyosmani/agent-skills",
+          "stars": 84494,
+          "stars_today": 778
+        },
+        {
+          "name": "TapXWorld/ChinaTextbook",
+          "stars": 77887,
+          "stars_today": 591
+        },
+        {
+          "name": "google/skills",
+          "stars": 16687,
+          "stars_today": 481
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 209933,
+          "stars_today": 1354
         }
       ]
     }
