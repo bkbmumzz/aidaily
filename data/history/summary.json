@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-09",
     "2026-08-08",
     "2026-08-07",
     "2026-08-05",
@@ -68,10 +69,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-08",
-  "latest_repo_count": 422,
+  "latest_date": "2026-08-09",
+  "latest_repo_count": 415,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-08T22:23:39.572147",
+  "updated_at": "2026-08-09T22:25:34.500792",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3889,6 +3890,63 @@
           "name": "mattpocock/skills",
           "stars": 209933,
           "stars_today": 1354
+        }
+      ]
+    },
+    "2026-08-09": {
+      "repo_count": 415,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "PrimeIntellect-ai/prime-agent",
+          "stars": 10896,
+          "stars_today": 2319
+        },
+        {
+          "name": "vitali87/code-graph-rag",
+          "stars": 2947,
+          "stars_today": 59
+        },
+        {
+          "name": "msitarzewski/agency-agents",
+          "stars": 140588,
+          "stars_today": 932
+        },
+        {
+          "name": "pranshuparmar/witr",
+          "stars": 20580,
+          "stars_today": 342
+        },
+        {
+          "name": "google-deepmind/weathernext",
+          "stars": 7051,
+          "stars_today": 105
         }
       ]
     }
