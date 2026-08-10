@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-10",
     "2026-08-09",
     "2026-08-08",
     "2026-08-07",
@@ -69,10 +70,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-09",
-  "latest_repo_count": 415,
+  "latest_date": "2026-08-10",
+  "latest_repo_count": 411,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-09T22:25:34.500792",
+  "updated_at": "2026-08-10T22:32:52.809164",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -3947,6 +3948,63 @@
           "name": "google-deepmind/weathernext",
           "stars": 7051,
           "stars_today": 105
+        }
+      ]
+    },
+    "2026-08-10": {
+      "repo_count": 411,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "semantica-agi/semantica",
+          "stars": 4032,
+          "stars_today": 967
+        },
+        {
+          "name": "msitarzewski/agency-agents",
+          "stars": 141756,
+          "stars_today": 1352
+        },
+        {
+          "name": "NanmiCoder/MediaCrawler",
+          "stars": 60964,
+          "stars_today": 215
+        },
+        {
+          "name": "addyosmani/agent-skills",
+          "stars": 85711,
+          "stars_today": 659
+        },
+        {
+          "name": "paperclipai/paperclip",
+          "stars": 76427,
+          "stars_today": 167
         }
       ]
     }
