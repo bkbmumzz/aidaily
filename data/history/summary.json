@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-12",
     "2026-08-11",
     "2026-08-10",
     "2026-08-09",
@@ -71,10 +72,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-11",
-  "latest_repo_count": 400,
+  "latest_date": "2026-08-12",
+  "latest_repo_count": 399,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-11T22:37:09.255468",
+  "updated_at": "2026-08-12T22:36:18.256727",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4063,6 +4064,63 @@
           "name": "ZhuLinsen/daily_stock_analysis",
           "stars": 62086,
           "stars_today": 317
+        }
+      ]
+    },
+    "2026-08-12": {
+      "repo_count": 399,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "cathrynlavery/diagram-design",
+          "stars": 10069,
+          "stars_today": 2951
+        },
+        {
+          "name": "macro-inc/macro",
+          "stars": 1696,
+          "stars_today": 325
+        },
+        {
+          "name": "semantica-agi/semantica",
+          "stars": 5658,
+          "stars_today": 834
+        },
+        {
+          "name": "stablyai/orca",
+          "stars": 43790,
+          "stars_today": 1215
+        },
+        {
+          "name": "msitarzewski/agency-agents",
+          "stars": 144524,
+          "stars_today": 1969
         }
       ]
     }
