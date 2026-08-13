@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-13",
     "2026-08-12",
     "2026-08-11",
     "2026-08-10",
@@ -72,10 +73,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-12",
-  "latest_repo_count": 399,
+  "latest_date": "2026-08-13",
+  "latest_repo_count": 396,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-12T22:36:18.256727",
+  "updated_at": "2026-08-13T22:36:46.021466",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4121,6 +4122,63 @@
           "name": "msitarzewski/agency-agents",
           "stars": 144524,
           "stars_today": 1969
+        }
+      ]
+    },
+    "2026-08-13": {
+      "repo_count": 396,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "cathrynlavery/diagram-design",
+          "stars": 14238,
+          "stars_today": 4504
+        },
+        {
+          "name": "semantica-agi/semantica",
+          "stars": 6570,
+          "stars_today": 727
+        },
+        {
+          "name": "anthropics/skills",
+          "stars": 168981,
+          "stars_today": 383
+        },
+        {
+          "name": "cactus-compute/needle",
+          "stars": 4918,
+          "stars_today": 768
+        },
+        {
+          "name": "altic-dev/FluidVoice",
+          "stars": 9829,
+          "stars_today": 187
         }
       ]
     }
