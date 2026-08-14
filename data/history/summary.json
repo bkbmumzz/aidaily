@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-14",
     "2026-08-13",
     "2026-08-12",
     "2026-08-11",
@@ -73,10 +74,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-13",
-  "latest_repo_count": 396,
+  "latest_date": "2026-08-14",
+  "latest_repo_count": 384,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-13T22:36:46.021466",
+  "updated_at": "2026-08-14T22:18:06.651146",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4179,6 +4180,63 @@
           "name": "altic-dev/FluidVoice",
           "stars": 9829,
           "stars_today": 187
+        }
+      ]
+    },
+    "2026-08-14": {
+      "repo_count": 384,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "cathrynlavery/diagram-design",
+          "stars": 17123,
+          "stars_today": 3651
+        },
+        {
+          "name": "cactus-compute/needle",
+          "stars": 5560,
+          "stars_today": 661
+        },
+        {
+          "name": "megadose/holehe",
+          "stars": 12813,
+          "stars_today": 427
+        },
+        {
+          "name": "macro-inc/macro",
+          "stars": 2998,
+          "stars_today": 435
+        },
+        {
+          "name": "smicallef/spiderfoot",
+          "stars": 20910,
+          "stars_today": 292
         }
       ]
     }
