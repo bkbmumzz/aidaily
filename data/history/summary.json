@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-15",
     "2026-08-14",
     "2026-08-13",
     "2026-08-12",
@@ -74,10 +75,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-14",
-  "latest_repo_count": 384,
+  "latest_date": "2026-08-15",
+  "latest_repo_count": 389,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-14T22:18:06.651146",
+  "updated_at": "2026-08-15T22:16:09.288790",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4237,6 +4238,63 @@
           "name": "smicallef/spiderfoot",
           "stars": 20910,
           "stars_today": 292
+        }
+      ]
+    },
+    "2026-08-15": {
+      "repo_count": 389,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "cordiverse/cordis",
+          "stars": 4026,
+          "stars_today": 616
+        },
+        {
+          "name": "cathrynlavery/diagram-design",
+          "stars": 18539,
+          "stars_today": 1619
+        },
+        {
+          "name": "cursor/plugins",
+          "stars": 2939,
+          "stars_today": 152
+        },
+        {
+          "name": "cactus-compute/needle",
+          "stars": 6034,
+          "stars_today": 551
+        },
+        {
+          "name": "unslothai/unsloth",
+          "stars": 72008,
+          "stars_today": 435
         }
       ]
     }
