@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-18",
     "2026-08-17",
     "2026-08-16",
     "2026-08-15",
@@ -77,10 +78,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-17",
-  "latest_repo_count": 374,
+  "latest_date": "2026-08-18",
+  "latest_repo_count": 389,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-17T22:19:38.757205",
+  "updated_at": "2026-08-18T22:18:24.648447",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4411,6 +4412,63 @@
           "name": "mukul975/Anthropic-Cybersecurity-Skills",
           "stars": 28359,
           "stars_today": 156
+        }
+      ]
+    },
+    "2026-08-18": {
+      "repo_count": 389,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "harry0703/MoneyPrinterTurbo",
+          "stars": 108432,
+          "stars_today": 2306
+        },
+        {
+          "name": "chaitanyagiri/munder-difflin",
+          "stars": 1978,
+          "stars_today": 256
+        },
+        {
+          "name": "akitaonrails/ai-memory",
+          "stars": 2673,
+          "stars_today": 730
+        },
+        {
+          "name": "volcengine/OpenViking",
+          "stars": 29317,
+          "stars_today": 298
+        },
+        {
+          "name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "stars": 29125,
+          "stars_today": 726
         }
       ]
     }
