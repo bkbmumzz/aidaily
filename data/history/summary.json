@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-20",
     "2026-08-19",
     "2026-08-18",
     "2026-08-17",
@@ -79,10 +80,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-19",
-  "latest_repo_count": 392,
+  "latest_date": "2026-08-20",
+  "latest_repo_count": 402,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-19T22:20:08.812287",
+  "updated_at": "2026-08-20T22:22:26.867009",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4527,6 +4528,63 @@
           "name": "nautechsystems/nautilus_trader",
           "stars": 26422,
           "stars_today": 79
+        }
+      ]
+    },
+    "2026-08-20": {
+      "repo_count": 402,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "modular/modular",
+          "stars": 27876,
+          "stars_today": 340
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 226280,
+          "stars_today": 2267
+        },
+        {
+          "name": "AprilNEA/OpenLogi",
+          "stars": 11756,
+          "stars_today": 1540
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 274898,
+          "stars_today": 749
+        },
+        {
+          "name": "cursor/plugins",
+          "stars": 4044,
+          "stars_today": 473
         }
       ]
     }
