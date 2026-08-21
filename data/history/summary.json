@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-21",
     "2026-08-20",
     "2026-08-19",
     "2026-08-18",
@@ -80,10 +81,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-20",
-  "latest_repo_count": 402,
+  "latest_date": "2026-08-21",
+  "latest_repo_count": 399,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-20T22:22:26.867009",
+  "updated_at": "2026-08-21T22:19:27.538600",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4585,6 +4586,63 @@
           "name": "cursor/plugins",
           "stars": 4044,
           "stars_today": 473
+        }
+      ]
+    },
+    "2026-08-21": {
+      "repo_count": 399,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "mattpocock/skills",
+          "stars": 229310,
+          "stars_today": 3368
+        },
+        {
+          "name": "mahlernim/google-timeline-visualizer",
+          "stars": 2187,
+          "stars_today": 1040
+        },
+        {
+          "name": "harry0703/MoneyPrinterTurbo",
+          "stars": 113834,
+          "stars_today": 1187
+        },
+        {
+          "name": "AprilNEA/OpenLogi",
+          "stars": 12826,
+          "stars_today": 1372
+        },
+        {
+          "name": "PostHog/posthog",
+          "stars": 38269,
+          "stars_today": 334
         }
       ]
     }
