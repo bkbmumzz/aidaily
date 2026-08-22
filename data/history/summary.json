@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-22",
     "2026-08-21",
     "2026-08-20",
     "2026-08-19",
@@ -81,10 +82,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-21",
-  "latest_repo_count": 399,
+  "latest_date": "2026-08-22",
+  "latest_repo_count": 382,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-21T22:19:27.538600",
+  "updated_at": "2026-08-22T22:17:02.543037",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4643,6 +4644,63 @@
           "name": "PostHog/posthog",
           "stars": 38269,
           "stars_today": 334
+        }
+      ]
+    },
+    "2026-08-22": {
+      "repo_count": 382,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "openai/codex",
+          "stars": 113198,
+          "stars_today": 1978
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 231895,
+          "stars_today": 2684
+        },
+        {
+          "name": "affaan-m/ECC",
+          "stars": 242147,
+          "stars_today": 428
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 276152,
+          "stars_today": 592
+        },
+        {
+          "name": "Wei-Shaw/sub2api",
+          "stars": 38771,
+          "stars_today": 264
         }
       ]
     }
