@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-23",
     "2026-08-22",
     "2026-08-21",
     "2026-08-20",
@@ -82,10 +83,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-22",
-  "latest_repo_count": 382,
+  "latest_date": "2026-08-23",
+  "latest_repo_count": 379,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-22T22:17:02.543037",
+  "updated_at": "2026-08-23T22:17:12.236874",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4701,6 +4702,63 @@
           "name": "Wei-Shaw/sub2api",
           "stars": 38771,
           "stars_today": 264
+        }
+      ]
+    },
+    "2026-08-23": {
+      "repo_count": 379,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "openai/codex",
+          "stars": 115089,
+          "stars_today": 2729
+        },
+        {
+          "name": "freestylefly/awesome-gpt-image-2",
+          "stars": 12654,
+          "stars_today": 440
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 233753,
+          "stars_today": 2448
+        },
+        {
+          "name": "basecamp/omarchy",
+          "stars": 29057,
+          "stars_today": 814
+        },
+        {
+          "name": "AprilNEA/OpenLogi",
+          "stars": 14862,
+          "stars_today": 1008
         }
       ]
     }
