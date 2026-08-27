@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-27",
     "2026-08-25",
     "2026-08-24",
     "2026-08-23",
@@ -85,10 +86,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-25",
-  "latest_repo_count": 371,
+  "latest_date": "2026-08-27",
+  "latest_repo_count": 401,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-25T22:21:45.665799",
+  "updated_at": "2026-08-27T02:50:39.129793",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4875,6 +4876,63 @@
           "name": "TauricResearch/TradingAgents",
           "stars": 100173,
           "stars_today": 191
+        }
+      ]
+    },
+    "2026-08-27": {
+      "repo_count": 401,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "tt-a1i/archify",
+          "stars": 18238,
+          "stars_today": 1035
+        },
+        {
+          "name": "freestylefly/awesome-gpt-image-2",
+          "stars": 21605,
+          "stars_today": 4050
+        },
+        {
+          "name": "anthropics/claude-plugins-official",
+          "stars": 34387,
+          "stars_today": 308
+        },
+        {
+          "name": "Alishahryar1/free-claude-code",
+          "stars": 50441,
+          "stars_today": 536
+        },
+        {
+          "name": "MadsLorentzen/ai-job-search",
+          "stars": 36560,
+          "stars_today": 1300
         }
       ]
     }
