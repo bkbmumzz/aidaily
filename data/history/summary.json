@@ -89,9 +89,9 @@
     "2026-06-02"
   ],
   "latest_date": "2026-08-29",
-  "latest_repo_count": 393,
+  "latest_repo_count": 391,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-29T03:28:40.781554",
+  "updated_at": "2026-08-29T23:51:47.642923",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -4996,7 +4996,7 @@
       ]
     },
     "2026-08-29": {
-      "repo_count": 393,
+      "repo_count": 391,
       "issue_count": 40,
       "trending_languages": [
         "daily",
@@ -5027,28 +5027,28 @@
       "top_repos": [
         {
           "name": "tt-a1i/archify",
-          "stars": 27852,
-          "stars_today": 4562
-        },
-        {
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "stars": 36747,
-          "stars_today": 720
-        },
-        {
-          "name": "anthropics/claude-plugins-official",
-          "stars": 35073,
-          "stars_today": 457
+          "stars": 31004,
+          "stars_today": 3927
         },
         {
           "name": "bilawalsidhu/gods-eye-view",
-          "stars": 11217,
-          "stars_today": 3829
+          "stars": 12603,
+          "stars_today": 1870
         },
         {
-          "name": "abhigyanpatwari/GitNexus",
-          "stars": 46182,
-          "stars_today": 202
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "stars": 37926,
+          "stars_today": 1604
+        },
+        {
+          "name": "tailscale/tailcat",
+          "stars": 3471,
+          "stars_today": 790
+        },
+        {
+          "name": "THU-MAIC/OpenMAIC",
+          "stars": 22199,
+          "stars_today": 907
         }
       ]
     }
