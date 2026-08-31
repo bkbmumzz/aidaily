@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-08-31",
     "2026-08-29",
     "2026-08-28",
     "2026-08-27",
@@ -88,10 +89,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-29",
-  "latest_repo_count": 391,
+  "latest_date": "2026-08-31",
+  "latest_repo_count": 402,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-29T23:51:47.642923",
+  "updated_at": "2026-08-31T00:10:39.534514",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5049,6 +5050,63 @@
           "name": "THU-MAIC/OpenMAIC",
           "stars": 22199,
           "stars_today": 907
+        }
+      ]
+    },
+    "2026-08-31": {
+      "repo_count": 402,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "THU-MAIC/OpenMAIC",
+          "stars": 23930,
+          "stars_today": 1370
+        },
+        {
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "stars": 39196,
+          "stars_today": 1114
+        },
+        {
+          "name": "Lakr233/vphone-cli",
+          "stars": 9595,
+          "stars_today": 361
+        },
+        {
+          "name": "tt-a1i/archify",
+          "stars": 34473,
+          "stars_today": 3722
+        },
+        {
+          "name": "p-e-w/heretic",
+          "stars": 29156,
+          "stars_today": 369
         }
       ]
     }
