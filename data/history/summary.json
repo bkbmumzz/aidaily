@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-01",
     "2026-08-31",
     "2026-08-29",
     "2026-08-28",
@@ -89,10 +90,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-08-31",
-  "latest_repo_count": 402,
+  "latest_date": "2026-09-01",
+  "latest_repo_count": 392,
   "latest_issue_count": 40,
-  "updated_at": "2026-08-31T00:10:39.534514",
+  "updated_at": "2026-09-01T00:58:14.848405",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5107,6 +5108,63 @@
           "name": "p-e-w/heretic",
           "stars": 29156,
           "stars_today": 369
+        }
+      ]
+    },
+    "2026-09-01": {
+      "repo_count": 392,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "THU-MAIC/OpenMAIC",
+          "stars": 27047,
+          "stars_today": 2824
+        },
+        {
+          "name": "tt-a1i/archify",
+          "stars": 38722,
+          "stars_today": 3991
+        },
+        {
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "stars": 40725,
+          "stars_today": 1980
+        },
+        {
+          "name": "k1tbyte/Wand-Enhancer",
+          "stars": 23386,
+          "stars_today": 582
+        },
+        {
+          "name": "majd/ipatool",
+          "stars": 10535,
+          "stars_today": 373
         }
       ]
     }
