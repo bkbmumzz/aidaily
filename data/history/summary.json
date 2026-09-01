@@ -91,9 +91,9 @@
     "2026-06-02"
   ],
   "latest_date": "2026-09-01",
-  "latest_repo_count": 392,
+  "latest_repo_count": 388,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-01T00:58:14.848405",
+  "updated_at": "2026-09-01T23:45:29.848194",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5112,7 +5112,7 @@
       ]
     },
     "2026-09-01": {
-      "repo_count": 392,
+      "repo_count": 388,
       "issue_count": 40,
       "trending_languages": [
         "daily",
@@ -5142,29 +5142,29 @@
       ],
       "top_repos": [
         {
+          "name": "Gitlawb/openclaude",
+          "stars": 31261,
+          "stars_today": 37
+        },
+        {
+          "name": "Imbad0202/academic-research-skills",
+          "stars": 44859,
+          "stars_today": 161
+        },
+        {
           "name": "THU-MAIC/OpenMAIC",
-          "stars": 27047,
-          "stars_today": 2824
+          "stars": 29440,
+          "stars_today": 3122
         },
         {
-          "name": "tt-a1i/archify",
-          "stars": 38722,
-          "stars_today": 3991
+          "name": "iv-org/invidious",
+          "stars": 23754,
+          "stars_today": 583
         },
         {
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "stars": 40725,
-          "stars_today": 1980
-        },
-        {
-          "name": "k1tbyte/Wand-Enhancer",
-          "stars": 23386,
-          "stars_today": 582
-        },
-        {
-          "name": "majd/ipatool",
-          "stars": 10535,
-          "stars_today": 373
+          "name": "jingyaogong/minimind",
+          "stars": 57029,
+          "stars_today": 1005
         }
       ]
     }
