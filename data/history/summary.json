@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-02",
     "2026-09-01",
     "2026-08-31",
     "2026-08-29",
@@ -90,10 +91,10 @@
     "2026-06-03",
     "2026-06-02"
   ],
-  "latest_date": "2026-09-01",
-  "latest_repo_count": 388,
+  "latest_date": "2026-09-02",
+  "latest_repo_count": 415,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-01T23:45:29.848194",
+  "updated_at": "2026-09-02T23:48:26.242683",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5165,6 +5166,63 @@
           "name": "jingyaogong/minimind",
           "stars": 57029,
           "stars_today": 1005
+        }
+      ]
+    },
+    "2026-09-02": {
+      "repo_count": 415,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "fmtlib/fmt",
+          "stars": 24222,
+          "stars_today": 3
+        },
+        {
+          "name": "google-research/timesfm",
+          "stars": 29733,
+          "stars_today": 326
+        },
+        {
+          "name": "DietrichGebert/ponytail",
+          "stars": 121459,
+          "stars_today": 1364
+        },
+        {
+          "name": "debpalash/VoiceStudio",
+          "stars": 14655,
+          "stars_today": 834
+        },
+        {
+          "name": "sngyai/Sequoia-X",
+          "stars": 6025,
+          "stars_today": 138
         }
       ]
     }
