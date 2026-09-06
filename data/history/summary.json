@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-06",
     "2026-09-05",
     "2026-09-04",
     "2026-09-03",
@@ -88,13 +89,12 @@
     "2026-06-09",
     "2026-06-08",
     "2026-06-07",
-    "2026-06-06",
-    "2026-06-05"
+    "2026-06-06"
   ],
-  "latest_date": "2026-09-05",
-  "latest_repo_count": 394,
+  "latest_date": "2026-09-06",
+  "latest_repo_count": 395,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-05T23:31:04.163808",
+  "updated_at": "2026-09-06T23:26:07.058568",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5394,6 +5394,63 @@
           "name": "fmtlib/fmt",
           "stars": 25567,
           "stars_today": 133
+        }
+      ]
+    },
+    "2026-09-06": {
+      "repo_count": 395,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "affaan-m/ECC",
+          "stars": 251252,
+          "stars_today": 1486
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 254471,
+          "stars_today": 2206
+        },
+        {
+          "name": "cathrynlavery/diagram-design",
+          "stars": 32311,
+          "stars_today": 621
+        },
+        {
+          "name": "NousResearch/hermes-agent",
+          "stars": 242519,
+          "stars_today": 520
+        },
+        {
+          "name": "openai/skills",
+          "stars": 25604,
+          "stars_today": 44
         }
       ]
     }
