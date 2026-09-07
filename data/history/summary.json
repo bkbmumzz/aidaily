@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-07",
     "2026-09-06",
     "2026-09-05",
     "2026-09-04",
@@ -88,13 +89,12 @@
     "2026-06-10",
     "2026-06-09",
     "2026-06-08",
-    "2026-06-07",
-    "2026-06-06"
+    "2026-06-07"
   ],
-  "latest_date": "2026-09-06",
-  "latest_repo_count": 395,
+  "latest_date": "2026-09-07",
+  "latest_repo_count": 404,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-06T23:26:07.058568",
+  "updated_at": "2026-09-07T23:55:48.597123",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5451,6 +5451,63 @@
           "name": "openai/skills",
           "stars": 25604,
           "stars_today": 44
+        }
+      ]
+    },
+    "2026-09-07": {
+      "repo_count": 404,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "heygen-com/hyperframes",
+          "stars": 45837,
+          "stars_today": 734
+        },
+        {
+          "name": "microsoft/markitdown",
+          "stars": 180161,
+          "stars_today": 771
+        },
+        {
+          "name": "mksglu/context-mode",
+          "stars": 20810,
+          "stars_today": 147
+        },
+        {
+          "name": "jo-inc/camofox-browser",
+          "stars": 9668,
+          "stars_today": 285
+        },
+        {
+          "name": "MoonTechLab/LunaTV",
+          "stars": 9698,
+          "stars_today": 171
         }
       ]
     }
