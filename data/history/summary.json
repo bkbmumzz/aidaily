@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-09",
     "2026-09-08",
     "2026-09-07",
     "2026-09-06",
@@ -88,13 +89,12 @@
     "2026-06-12",
     "2026-06-11",
     "2026-06-10",
-    "2026-06-09",
-    "2026-06-08"
+    "2026-06-09"
   ],
-  "latest_date": "2026-09-08",
-  "latest_repo_count": 388,
+  "latest_date": "2026-09-09",
+  "latest_repo_count": 374,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-08T23:49:05.562134",
+  "updated_at": "2026-09-09T23:48:02.315069",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5565,6 +5565,63 @@
           "name": "heygen-com/hyperframes",
           "stars": 47730,
           "stars_today": 2628
+        }
+      ]
+    },
+    "2026-09-09": {
+      "repo_count": 374,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "ayghri/i-have-adhd",
+          "stars": 34505,
+          "stars_today": 4624
+        },
+        {
+          "name": "Tencent/teamai-cli",
+          "stars": 2951,
+          "stars_today": 563
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 284008,
+          "stars_today": 690
+        },
+        {
+          "name": "pascalorg/editor",
+          "stars": 22895,
+          "stars_today": 171
+        },
+        {
+          "name": "earthtojake/text-to-cad",
+          "stars": 15022,
+          "stars_today": 97
         }
       ]
     }
