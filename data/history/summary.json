@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-11",
     "2026-09-10",
     "2026-09-09",
     "2026-09-08",
@@ -88,13 +89,12 @@
     "2026-06-14",
     "2026-06-13",
     "2026-06-12",
-    "2026-06-11",
-    "2026-06-10"
+    "2026-06-11"
   ],
-  "latest_date": "2026-09-10",
-  "latest_repo_count": 389,
+  "latest_date": "2026-09-11",
+  "latest_repo_count": 388,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-10T23:39:15.442447",
+  "updated_at": "2026-09-11T23:50:25.704417",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5679,6 +5679,63 @@
           "name": "Tencent/teamai-cli",
           "stars": 3755,
           "stars_today": 837
+        }
+      ]
+    },
+    "2026-09-11": {
+      "repo_count": 388,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "ayghri/i-have-adhd",
+          "stars": 41722,
+          "stars_today": 3440
+        },
+        {
+          "name": "bilawalsidhu/gods-eye-view",
+          "stars": 27041,
+          "stars_today": 3642
+        },
+        {
+          "name": "nab138/iloader",
+          "stars": 2899,
+          "stars_today": 36
+        },
+        {
+          "name": "melgarafael/DeskcommCRM",
+          "stars": 1322,
+          "stars_today": 126
+        },
+        {
+          "name": "vastsa/PI-Desktop",
+          "stars": 2766,
+          "stars_today": 545
         }
       ]
     }
