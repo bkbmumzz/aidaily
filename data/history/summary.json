@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-13",
     "2026-09-12",
     "2026-09-11",
     "2026-09-10",
@@ -88,13 +89,12 @@
     "2026-06-16",
     "2026-06-15",
     "2026-06-14",
-    "2026-06-13",
-    "2026-06-12"
+    "2026-06-13"
   ],
-  "latest_date": "2026-09-12",
-  "latest_repo_count": 384,
+  "latest_date": "2026-09-13",
+  "latest_repo_count": 385,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-12T23:41:03.252509",
+  "updated_at": "2026-09-13T23:52:10.231648",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5793,6 +5793,63 @@
           "name": "Flowseal/zapret-discord-youtube",
           "stars": 33205,
           "stars_today": 52
+        }
+      ]
+    },
+    "2026-09-13": {
+      "repo_count": 385,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "JustVugg/colibri",
+          "stars": 29762,
+          "stars_today": 960
+        },
+        {
+          "name": "ever-co/ever-gauzy",
+          "stars": 5040,
+          "stars_today": 58
+        },
+        {
+          "name": "bilawalsidhu/gods-eye-view",
+          "stars": 31822,
+          "stars_today": 2898
+        },
+        {
+          "name": "tech-leads-club/agent-skills",
+          "stars": 5635,
+          "stars_today": 215
+        },
+        {
+          "name": "melgarafael/DeskcommCRM",
+          "stars": 2173,
+          "stars_today": 444
         }
       ]
     }
