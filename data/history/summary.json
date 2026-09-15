@@ -92,9 +92,9 @@
     "2026-06-14"
   ],
   "latest_date": "2026-09-15",
-  "latest_repo_count": 402,
+  "latest_repo_count": 372,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-15T00:12:10.345552",
+  "updated_at": "2026-09-15T23:55:45.122572",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5854,7 +5854,7 @@
       ]
     },
     "2026-09-15": {
-      "repo_count": 402,
+      "repo_count": 372,
       "issue_count": 40,
       "trending_languages": [
         "daily",
@@ -5884,29 +5884,29 @@
       ],
       "top_repos": [
         {
-          "name": "JustVugg/colibri",
-          "stars": 32036,
-          "stars_today": 2173
-        },
-        {
           "name": "alibaba/open-code-review",
-          "stars": 25650,
-          "stars_today": 1571
+          "stars": 28481,
+          "stars_today": 2751
         },
         {
-          "name": "multimodal-art-projection/YuE",
-          "stars": 8314,
-          "stars_today": 559
+          "name": "JustVugg/colibri",
+          "stars": 33792,
+          "stars_today": 2035
+        },
+        {
+          "name": "ever-co/ever-gauzy",
+          "stars": 6618,
+          "stars_today": 632
         },
         {
           "name": "debpalash/VoiceStudio",
-          "stars": 29139,
-          "stars_today": 2776
+          "stars": 30907,
+          "stars_today": 2081
         },
         {
-          "name": "666ghj/MiroFish",
-          "stars": 73123,
-          "stars_today": 560
+          "name": "Homebrew/BrewUI",
+          "stars": 1330,
+          "stars_today": 356
         }
       ]
     }
