@@ -92,9 +92,9 @@
     "2026-06-15"
   ],
   "latest_date": "2026-09-17",
-  "latest_repo_count": 403,
+  "latest_repo_count": 404,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-17T00:02:13.060242",
+  "updated_at": "2026-09-17T23:52:29.446423",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5911,7 +5911,7 @@
       ]
     },
     "2026-09-17": {
-      "repo_count": 403,
+      "repo_count": 404,
       "issue_count": 40,
       "trending_languages": [
         "daily",
@@ -5942,28 +5942,28 @@
       "top_repos": [
         {
           "name": "alibaba/open-code-review",
-          "stars": 31745,
-          "stars_today": 3231
+          "stars": 34659,
+          "stars_today": 3290
         },
         {
           "name": "cloudflare/security-audit-skill",
-          "stars": 7135,
-          "stars_today": 927
+          "stars": 10552,
+          "stars_today": 3606
         },
         {
-          "name": "JustVugg/colibri",
-          "stars": 35014,
-          "stars_today": 1546
+          "name": "addyosmani/agent-skills",
+          "stars": 95834,
+          "stars_today": 680
         },
         {
-          "name": "abue-ammar/tinycast",
-          "stars": 5570,
-          "stars_today": 1179
+          "name": "Tencent/BrowserSkill",
+          "stars": 4092,
+          "stars_today": 1350
         },
         {
-          "name": "jamiepine/voicebox",
-          "stars": 54363,
-          "stars_today": 417
+          "name": "alphaXiv/OpenResearch",
+          "stars": 4931,
+          "stars_today": 940
         }
       ]
     }
