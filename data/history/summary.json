@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-18",
     "2026-09-17",
     "2026-09-15",
     "2026-09-13",
@@ -88,13 +89,12 @@
     "2026-06-19",
     "2026-06-18",
     "2026-06-17",
-    "2026-06-16",
-    "2026-06-15"
+    "2026-06-16"
   ],
-  "latest_date": "2026-09-17",
-  "latest_repo_count": 404,
+  "latest_date": "2026-09-18",
+  "latest_repo_count": 396,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-17T23:52:29.446423",
+  "updated_at": "2026-09-18T23:50:25.903280",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -5964,6 +5964,63 @@
           "name": "alphaXiv/OpenResearch",
           "stars": 4931,
           "stars_today": 940
+        }
+      ]
+    },
+    "2026-09-18": {
+      "repo_count": 396,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "cloudflare/security-audit-skill",
+          "stars": 13613,
+          "stars_today": 3019
+        },
+        {
+          "name": "anthropics/claude-code",
+          "stars": 146275,
+          "stars_today": 442
+        },
+        {
+          "name": "alibaba/open-code-review",
+          "stars": 36638,
+          "stars_today": 2724
+        },
+        {
+          "name": "affaan-m/ECC",
+          "stars": 262040,
+          "stars_today": 965
+        },
+        {
+          "name": "Tencent/BrowserSkill",
+          "stars": 5274,
+          "stars_today": 1319
         }
       ]
     }
