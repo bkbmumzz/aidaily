@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-20",
     "2026-09-19",
     "2026-09-18",
     "2026-09-17",
@@ -88,13 +89,12 @@
     "2026-06-21",
     "2026-06-20",
     "2026-06-19",
-    "2026-06-18",
-    "2026-06-17"
+    "2026-06-18"
   ],
-  "latest_date": "2026-09-19",
-  "latest_repo_count": 390,
+  "latest_date": "2026-09-20",
+  "latest_repo_count": 385,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-19T23:52:08.563940",
+  "updated_at": "2026-09-20T23:48:50.535807",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6078,6 +6078,63 @@
           "name": "anthropics/claude-code",
           "stars": 146696,
           "stars_today": 482
+        }
+      ]
+    },
+    "2026-09-20": {
+      "repo_count": 385,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "affaan-m/ECC",
+          "stars": 263709,
+          "stars_today": 837
+        },
+        {
+          "name": "BuilderIO/agent-native",
+          "stars": 5184,
+          "stars_today": 89
+        },
+        {
+          "name": "cloudflare/security-audit-skill",
+          "stars": 17979,
+          "stars_today": 2375
+        },
+        {
+          "name": "trycua/cua",
+          "stars": 25127,
+          "stars_today": 1012
+        },
+        {
+          "name": "anthropics/financial-services",
+          "stars": 35352,
+          "stars_today": 236
         }
       ]
     }
