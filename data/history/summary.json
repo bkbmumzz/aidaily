@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-22",
     "2026-09-20",
     "2026-09-19",
     "2026-09-18",
@@ -88,13 +89,12 @@
     "2026-06-22",
     "2026-06-21",
     "2026-06-20",
-    "2026-06-19",
-    "2026-06-18"
+    "2026-06-19"
   ],
-  "latest_date": "2026-09-20",
-  "latest_repo_count": 385,
+  "latest_date": "2026-09-22",
+  "latest_repo_count": 390,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-20T23:48:50.535807",
+  "updated_at": "2026-09-22T00:32:16.917940",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6135,6 +6135,63 @@
           "name": "anthropics/financial-services",
           "stars": 35352,
           "stars_today": 236
+        }
+      ]
+    },
+    "2026-09-22": {
+      "repo_count": 390,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "BuilderIO/agent-native",
+          "stars": 5889,
+          "stars_today": 607
+        },
+        {
+          "name": "trycua/cua",
+          "stars": 25689,
+          "stars_today": 609
+        },
+        {
+          "name": "Open-Dev-Society/OpenStock",
+          "stars": 17714,
+          "stars_today": 844
+        },
+        {
+          "name": "akitaonrails/ai-memory",
+          "stars": 7667,
+          "stars_today": 167
+        },
+        {
+          "name": "coder/coder",
+          "stars": 16421,
+          "stars_today": 460
         }
       ]
     }
