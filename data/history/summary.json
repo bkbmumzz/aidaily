@@ -92,9 +92,9 @@
     "2026-06-19"
   ],
   "latest_date": "2026-09-22",
-  "latest_repo_count": 390,
+  "latest_repo_count": 369,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-22T00:32:16.917940",
+  "updated_at": "2026-09-22T23:58:38.567016",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6139,7 +6139,7 @@
       ]
     },
     "2026-09-22": {
-      "repo_count": 390,
+      "repo_count": 369,
       "issue_count": 40,
       "trending_languages": [
         "daily",
@@ -6169,29 +6169,29 @@
       ],
       "top_repos": [
         {
-          "name": "BuilderIO/agent-native",
-          "stars": 5889,
-          "stars_today": 607
+          "name": "anthropics/financial-services",
+          "stars": 36309,
+          "stars_today": 436
         },
         {
-          "name": "trycua/cua",
-          "stars": 25689,
-          "stars_today": 609
+          "name": "agent-substrate/substrate",
+          "stars": 2957,
+          "stars_today": 301
         },
         {
-          "name": "Open-Dev-Society/OpenStock",
-          "stars": 17714,
-          "stars_today": 844
+          "name": "dream-num/univer",
+          "stars": 15375,
+          "stars_today": 202
         },
         {
-          "name": "akitaonrails/ai-memory",
-          "stars": 7667,
-          "stars_today": 167
+          "name": "davila7/claude-code-templates",
+          "stars": 31108,
+          "stars_today": 113
         },
         {
-          "name": "coder/coder",
-          "stars": 16421,
-          "stars_today": 460
+          "name": "google/ax",
+          "stars": 7553,
+          "stars_today": 2324
         }
       ]
     }
