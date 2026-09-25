@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-25",
     "2026-09-24",
     "2026-09-22",
     "2026-09-20",
@@ -88,13 +89,12 @@
     "2026-06-24",
     "2026-06-23",
     "2026-06-22",
-    "2026-06-21",
-    "2026-06-20"
+    "2026-06-21"
   ],
-  "latest_date": "2026-09-24",
-  "latest_repo_count": 390,
+  "latest_date": "2026-09-25",
+  "latest_repo_count": 375,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-24T00:12:29.574398",
+  "updated_at": "2026-09-25T00:13:57.290557",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6249,6 +6249,63 @@
           "name": "obra/superpowers",
           "stars": 290677,
           "stars_today": 474
+        }
+      ]
+    },
+    "2026-09-25": {
+      "repo_count": 375,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "stars": 56534,
+          "stars_today": 347
+        },
+        {
+          "name": "vectorize-io/hindsight",
+          "stars": 27758,
+          "stars_today": 1668
+        },
+        {
+          "name": "dream-num/univer",
+          "stars": 17575,
+          "stars_today": 1082
+        },
+        {
+          "name": "google/ax",
+          "stars": 10395,
+          "stars_today": 1373
+        },
+        {
+          "name": "NVIDIA/Model-Optimizer",
+          "stars": 4070,
+          "stars_today": 44
         }
       ]
     }
