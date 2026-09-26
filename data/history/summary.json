@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-26",
     "2026-09-25",
     "2026-09-24",
     "2026-09-22",
@@ -88,13 +89,12 @@
     "2026-06-25",
     "2026-06-24",
     "2026-06-23",
-    "2026-06-22",
-    "2026-06-21"
+    "2026-06-22"
   ],
-  "latest_date": "2026-09-25",
-  "latest_repo_count": 375,
+  "latest_date": "2026-09-26",
+  "latest_repo_count": 369,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-25T00:13:57.290557",
+  "updated_at": "2026-09-26T00:21:02.730566",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6306,6 +6306,63 @@
           "name": "NVIDIA/Model-Optimizer",
           "stars": 4070,
           "stars_today": 44
+        }
+      ]
+    },
+    "2026-09-26": {
+      "repo_count": 369,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "paperclipai/paperclip",
+          "stars": 84911,
+          "stars_today": 2109
+        },
+        {
+          "name": "anthropics/claude-plugins-official",
+          "stars": 36928,
+          "stars_today": 83
+        },
+        {
+          "name": "vectorize-io/hindsight",
+          "stars": 29777,
+          "stars_today": 1653
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 291658,
+          "stars_today": 468
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 269719,
+          "stars_today": 583
         }
       ]
     }
