@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-27",
     "2026-09-26",
     "2026-09-25",
     "2026-09-24",
@@ -88,13 +89,12 @@
     "2026-06-26",
     "2026-06-25",
     "2026-06-24",
-    "2026-06-23",
-    "2026-06-22"
+    "2026-06-23"
   ],
-  "latest_date": "2026-09-26",
-  "latest_repo_count": 369,
+  "latest_date": "2026-09-27",
+  "latest_repo_count": 389,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-26T00:21:02.730566",
+  "updated_at": "2026-09-27T00:08:37.864519",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6363,6 +6363,63 @@
           "name": "mattpocock/skills",
           "stars": 269719,
           "stars_today": 583
+        }
+      ]
+    },
+    "2026-09-27": {
+      "repo_count": 389,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "paperclipai/paperclip",
+          "stars": 87261,
+          "stars_today": 2608
+        },
+        {
+          "name": "vectorize-io/hindsight",
+          "stars": 32152,
+          "stars_today": 2147
+        },
+        {
+          "name": "NVIDIA/Model-Optimizer",
+          "stars": 4742,
+          "stars_today": 357
+        },
+        {
+          "name": "dream-num/univer",
+          "stars": 19199,
+          "stars_today": 849
+        },
+        {
+          "name": "tensorflow/tensorflow",
+          "stars": 200446,
+          "stars_today": 46
         }
       ]
     }
