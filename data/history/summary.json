@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-28",
     "2026-09-27",
     "2026-09-26",
     "2026-09-25",
@@ -88,13 +89,12 @@
     "2026-06-27",
     "2026-06-26",
     "2026-06-25",
-    "2026-06-24",
-    "2026-06-23"
+    "2026-06-24"
   ],
-  "latest_date": "2026-09-27",
-  "latest_repo_count": 389,
+  "latest_date": "2026-09-28",
+  "latest_repo_count": 356,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-27T00:08:37.864519",
+  "updated_at": "2026-09-28T00:16:47.808058",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6420,6 +6420,63 @@
           "name": "tensorflow/tensorflow",
           "stars": 200446,
           "stars_today": 46
+        }
+      ]
+    },
+    "2026-09-28": {
+      "repo_count": 356,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "paperclipai/paperclip",
+          "stars": 89818,
+          "stars_today": 2401
+        },
+        {
+          "name": "vectorize-io/hindsight",
+          "stars": 37249,
+          "stars_today": 4520
+        },
+        {
+          "name": "debpalash/VoiceStudio",
+          "stars": 40085,
+          "stars_today": 3086
+        },
+        {
+          "name": "rohitg00/ai-engineering-from-scratch",
+          "stars": 59251,
+          "stars_today": 790
+        },
+        {
+          "name": "InfinityLoop1308/PipePipe",
+          "stars": 6562,
+          "stars_today": 242
         }
       ]
     }
