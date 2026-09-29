@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-29",
     "2026-09-28",
     "2026-09-27",
     "2026-09-26",
@@ -88,13 +89,12 @@
     "2026-06-28",
     "2026-06-27",
     "2026-06-26",
-    "2026-06-25",
-    "2026-06-24"
+    "2026-06-25"
   ],
-  "latest_date": "2026-09-28",
-  "latest_repo_count": 356,
+  "latest_date": "2026-09-29",
+  "latest_repo_count": 360,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-28T00:16:47.808058",
+  "updated_at": "2026-09-29T01:25:58.226414",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6477,6 +6477,63 @@
           "name": "InfinityLoop1308/PipePipe",
           "stars": 6562,
           "stars_today": 242
+        }
+      ]
+    },
+    "2026-09-29": {
+      "repo_count": 360,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "debpalash/VoiceStudio",
+          "stars": 44193,
+          "stars_today": 3221
+        },
+        {
+          "name": "paperclipai/paperclip",
+          "stars": 92861,
+          "stars_today": 3197
+        },
+        {
+          "name": "vectorize-io/hindsight",
+          "stars": 41019,
+          "stars_today": 4561
+        },
+        {
+          "name": "NawfalMotii79/PLFM_RADAR",
+          "stars": 25771,
+          "stars_today": 158
+        },
+        {
+          "name": "cs341-illinois/coursebook",
+          "stars": 2528,
+          "stars_today": 195
         }
       ]
     }
