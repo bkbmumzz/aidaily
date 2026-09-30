@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-09-30",
     "2026-09-29",
     "2026-09-28",
     "2026-09-27",
@@ -88,13 +89,12 @@
     "2026-06-29",
     "2026-06-28",
     "2026-06-27",
-    "2026-06-26",
-    "2026-06-25"
+    "2026-06-26"
   ],
-  "latest_date": "2026-09-29",
-  "latest_repo_count": 360,
+  "latest_date": "2026-09-30",
+  "latest_repo_count": 367,
   "latest_issue_count": 40,
-  "updated_at": "2026-09-29T01:25:58.226414",
+  "updated_at": "2026-09-30T00:59:40.466212",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6534,6 +6534,63 @@
           "name": "cs341-illinois/coursebook",
           "stars": 2528,
           "stars_today": 195
+        }
+      ]
+    },
+    "2026-09-30": {
+      "repo_count": 367,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "debpalash/VoiceStudio",
+          "stars": 48132,
+          "stars_today": 4758
+        },
+        {
+          "name": "NVIDIA/OpenShell",
+          "stars": 10613,
+          "stars_today": 990
+        },
+        {
+          "name": "vectorize-io/hindsight",
+          "stars": 42848,
+          "stars_today": 2575
+        },
+        {
+          "name": "paperclipai/paperclip",
+          "stars": 94471,
+          "stars_today": 2458
+        },
+        {
+          "name": "t8y2/dbx",
+          "stars": 22010,
+          "stars_today": 232
         }
       ]
     }
