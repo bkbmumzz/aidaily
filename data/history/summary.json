@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-02",
     "2026-10-01",
     "2026-09-30",
     "2026-09-29",
@@ -88,13 +89,12 @@
     "2026-07-01",
     "2026-06-30",
     "2026-06-29",
-    "2026-06-28",
-    "2026-06-27"
+    "2026-06-28"
   ],
-  "latest_date": "2026-10-01",
-  "latest_repo_count": 369,
+  "latest_date": "2026-10-02",
+  "latest_repo_count": 362,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-01T01:02:37.209871",
+  "updated_at": "2026-10-02T01:16:17.988117",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6648,6 +6648,63 @@
           "name": "DietrichGebert/ponytail",
           "stars": 149187,
           "stars_today": 743
+        }
+      ]
+    },
+    "2026-10-02": {
+      "repo_count": 362,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "DietrichGebert/ponytail",
+          "stars": 150528,
+          "stars_today": 1194
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 273913,
+          "stars_today": 883
+        },
+        {
+          "name": "NVIDIA/OpenShell",
+          "stars": 14025,
+          "stars_today": 2456
+        },
+        {
+          "name": "firebase/firebase-ios-sdk",
+          "stars": 6861,
+          "stars_today": 112
+        },
+        {
+          "name": "mvschwarz/openrig",
+          "stars": 3732,
+          "stars_today": 642
         }
       ]
     }
