@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-03",
     "2026-10-02",
     "2026-10-01",
     "2026-09-30",
@@ -88,13 +89,12 @@
     "2026-07-02",
     "2026-07-01",
     "2026-06-30",
-    "2026-06-29",
-    "2026-06-28"
+    "2026-06-29"
   ],
-  "latest_date": "2026-10-02",
-  "latest_repo_count": 362,
+  "latest_date": "2026-10-03",
+  "latest_repo_count": 355,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-02T01:16:17.988117",
+  "updated_at": "2026-10-03T00:54:23.124956",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6705,6 +6705,63 @@
           "name": "mvschwarz/openrig",
           "stars": 3732,
           "stars_today": 642
+        }
+      ]
+    },
+    "2026-10-03": {
+      "repo_count": 355,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "Panniantong/Agent-Reach",
+          "stars": 88633,
+          "stars_today": 696
+        },
+        {
+          "name": "JuliusBrussee/caveman",
+          "stars": 109102,
+          "stars_today": 209
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 294463,
+          "stars_today": 556
+        },
+        {
+          "name": "DietrichGebert/ponytail",
+          "stars": 151804,
+          "stars_today": 1435
+        },
+        {
+          "name": "pbakaus/impeccable",
+          "stars": 74324,
+          "stars_today": 722
         }
       ]
     }
