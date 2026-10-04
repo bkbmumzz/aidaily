@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-04",
     "2026-10-03",
     "2026-10-02",
     "2026-10-01",
@@ -88,13 +89,12 @@
     "2026-07-03",
     "2026-07-02",
     "2026-07-01",
-    "2026-06-30",
-    "2026-06-29"
+    "2026-06-30"
   ],
-  "latest_date": "2026-10-03",
-  "latest_repo_count": 355,
+  "latest_date": "2026-10-04",
+  "latest_repo_count": 359,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-03T00:54:23.124956",
+  "updated_at": "2026-10-04T00:20:24.604065",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6762,6 +6762,63 @@
           "name": "pbakaus/impeccable",
           "stars": 74324,
           "stars_today": 722
+        }
+      ]
+    },
+    "2026-10-04": {
+      "repo_count": 359,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "DietrichGebert/ponytail",
+          "stars": 153392,
+          "stars_today": 1281
+        },
+        {
+          "name": "pbakaus/impeccable",
+          "stars": 75294,
+          "stars_today": 699
+        },
+        {
+          "name": "affaan-m/ECC",
+          "stars": 272241,
+          "stars_today": 897
+        },
+        {
+          "name": "Effect-TS/effect",
+          "stars": 16810,
+          "stars_today": 302
+        },
+        {
+          "name": "JuliusBrussee/caveman",
+          "stars": 109531,
+          "stars_today": 507
         }
       ]
     }
