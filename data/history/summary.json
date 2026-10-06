@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-06",
     "2026-10-05",
     "2026-10-04",
     "2026-10-03",
@@ -88,13 +89,12 @@
     "2026-07-05",
     "2026-07-04",
     "2026-07-03",
-    "2026-07-02",
-    "2026-07-01"
+    "2026-07-02"
   ],
-  "latest_date": "2026-10-05",
-  "latest_repo_count": 342,
+  "latest_date": "2026-10-06",
+  "latest_repo_count": 334,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-05T00:24:55.407388",
+  "updated_at": "2026-10-06T02:02:52.743886",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6876,6 +6876,63 @@
           "name": "earthtojake/text-to-cad",
           "stars": 16855,
           "stars_today": 83
+        }
+      ]
+    },
+    "2026-10-06": {
+      "repo_count": 334,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "tester-army/e2e",
+          "stars": 4858,
+          "stars_today": 1398
+        },
+        {
+          "name": "thedotmack/claude-mem",
+          "stars": 96651,
+          "stars_today": 534
+        },
+        {
+          "name": "earthtojake/text-to-cad",
+          "stars": 17446,
+          "stars_today": 437
+        },
+        {
+          "name": "pingdotgg/t3code",
+          "stars": 25635,
+          "stars_today": 485
+        },
+        {
+          "name": "boykopovar/AnyPS5",
+          "stars": 4987,
+          "stars_today": 997
         }
       ]
     }
