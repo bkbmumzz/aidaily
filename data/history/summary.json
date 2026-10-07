@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-07",
     "2026-10-06",
     "2026-10-05",
     "2026-10-04",
@@ -88,13 +89,12 @@
     "2026-07-06",
     "2026-07-05",
     "2026-07-04",
-    "2026-07-03",
-    "2026-07-02"
+    "2026-07-03"
   ],
-  "latest_date": "2026-10-06",
-  "latest_repo_count": 334,
+  "latest_date": "2026-10-07",
+  "latest_repo_count": 336,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-06T02:02:52.743886",
+  "updated_at": "2026-10-07T01:12:08.831731",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -6933,6 +6933,63 @@
           "name": "boykopovar/AnyPS5",
           "stars": 4987,
           "stars_today": 997
+        }
+      ]
+    },
+    "2026-10-07": {
+      "repo_count": 336,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "tester-army/e2e",
+          "stars": 6346,
+          "stars_today": 1725
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 278161,
+          "stars_today": 889
+        },
+        {
+          "name": "earthtojake/text-to-cad",
+          "stars": 17982,
+          "stars_today": 619
+        },
+        {
+          "name": "boykopovar/AnyPS5",
+          "stars": 6562,
+          "stars_today": 949
+        },
+        {
+          "name": "pbakaus/impeccable",
+          "stars": 77701,
+          "stars_today": 616
         }
       ]
     }
