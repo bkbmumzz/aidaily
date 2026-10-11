@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-11",
     "2026-10-10",
     "2026-10-09",
     "2026-10-08",
@@ -88,13 +89,12 @@
     "2026-07-10",
     "2026-07-09",
     "2026-07-08",
-    "2026-07-07",
-    "2026-07-06"
+    "2026-07-07"
   ],
-  "latest_date": "2026-10-10",
-  "latest_repo_count": 337,
+  "latest_date": "2026-10-11",
+  "latest_repo_count": 343,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-10T01:27:53.337374",
+  "updated_at": "2026-10-11T00:39:26.605840",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -7161,6 +7161,63 @@
           "name": "alibaba/open-code-review",
           "stars": 45252,
           "stars_today": 326
+        }
+      ]
+    },
+    "2026-10-11": {
+      "repo_count": 343,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "morluto/rea",
+          "stars": 72480,
+          "stars_today": 25793
+        },
+        {
+          "name": "boykopovar/AnyPS5",
+          "stars": 26838,
+          "stars_today": 5805
+        },
+        {
+          "name": "storytold/artcraft",
+          "stars": 14492,
+          "stars_today": 3222
+        },
+        {
+          "name": "cathrynlavery/diagram-design",
+          "stars": 48945,
+          "stars_today": 1190
+        },
+        {
+          "name": "mksglu/context-mode",
+          "stars": 26315,
+          "stars_today": 178
         }
       ]
     }
