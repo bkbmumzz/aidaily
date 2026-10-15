@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-15",
     "2026-10-14",
     "2026-10-13",
     "2026-10-12",
@@ -88,13 +89,12 @@
     "2026-07-14",
     "2026-07-13",
     "2026-07-12",
-    "2026-07-11",
-    "2026-07-10"
+    "2026-07-11"
   ],
-  "latest_date": "2026-10-14",
-  "latest_repo_count": 331,
+  "latest_date": "2026-10-15",
+  "latest_repo_count": 326,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-14T00:50:19.164564",
+  "updated_at": "2026-10-15T00:16:48.344625",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -7389,6 +7389,63 @@
           "name": "cathrynlavery/diagram-design",
           "stars": 54122,
           "stars_today": 1815
+        }
+      ]
+    },
+    "2026-10-15": {
+      "repo_count": 326,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "morluto/rea",
+          "stars": 241329,
+          "stars_today": 41034
+        },
+        {
+          "name": "debpalash/VoiceStudio",
+          "stars": 66295,
+          "stars_today": 3538
+        },
+        {
+          "name": "mksglu/context-mode",
+          "stars": 29106,
+          "stars_today": 947
+        },
+        {
+          "name": "nvm-sh/nvm",
+          "stars": 95449,
+          "stars_today": 52
+        },
+        {
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "stars": 49312,
+          "stars_today": 163
         }
       ]
     }
