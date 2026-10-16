@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-16",
     "2026-10-15",
     "2026-10-14",
     "2026-10-13",
@@ -88,13 +89,12 @@
     "2026-07-15",
     "2026-07-14",
     "2026-07-13",
-    "2026-07-12",
-    "2026-07-11"
+    "2026-07-12"
   ],
-  "latest_date": "2026-10-15",
-  "latest_repo_count": 326,
+  "latest_date": "2026-10-16",
+  "latest_repo_count": 324,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-15T00:16:48.344625",
+  "updated_at": "2026-10-16T00:02:08.242997",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -7446,6 +7446,63 @@
           "name": "K-Dense-AI/scientific-agent-skills",
           "stars": 49312,
           "stars_today": 163
+        }
+      ]
+    },
+    "2026-10-16": {
+      "repo_count": 324,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "morluto/rea",
+          "stars": 269441,
+          "stars_today": 32314
+        },
+        {
+          "name": "anthropics/claude-plugins-official",
+          "stars": 39058,
+          "stars_today": 307
+        },
+        {
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "stars": 50444,
+          "stars_today": 1091
+        },
+        {
+          "name": "JuliusBrussee/caveman",
+          "stars": 112522,
+          "stars_today": 433
+        },
+        {
+          "name": "debpalash/VoiceStudio",
+          "stars": 69032,
+          "stars_today": 3024
         }
       ]
     }
