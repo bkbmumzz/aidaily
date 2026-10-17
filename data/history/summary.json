@@ -92,9 +92,9 @@
     "2026-07-13"
   ],
   "latest_date": "2026-10-17",
-  "latest_repo_count": 334,
+  "latest_repo_count": 329,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-17T00:08:05.264405",
+  "updated_at": "2026-10-17T23:43:37.173571",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -7507,7 +7507,7 @@
       ]
     },
     "2026-10-17": {
-      "repo_count": 334,
+      "repo_count": 329,
       "issue_count": 40,
       "trending_languages": [
         "daily",
@@ -7538,28 +7538,28 @@
       "top_repos": [
         {
           "name": "anthropics/claude-plugins-official",
-          "stars": 40522,
-          "stars_today": 1552
+          "stars": 41711,
+          "stars_today": 1383
         },
         {
-          "name": "K-Dense-AI/scientific-agent-skills",
-          "stars": 51484,
-          "stars_today": 1158
+          "name": "MadsLorentzen/ai-job-search",
+          "stars": 50337,
+          "stars_today": 1397
         },
         {
           "name": "affaan-m/ECC",
-          "stars": 281489,
-          "stars_today": 1057
+          "stars": 282470,
+          "stars_today": 1145
         },
         {
           "name": "HKUDS/CLI-Anything",
-          "stars": 53485,
-          "stars_today": 281
+          "stars": 54039,
+          "stars_today": 580
         },
         {
-          "name": "mksglu/context-mode",
-          "stars": 30221,
-          "stars_today": 449
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "stars": 52227,
+          "stars_today": 879
         }
       ]
     }
