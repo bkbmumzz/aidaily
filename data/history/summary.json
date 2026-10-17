@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-17",
     "2026-10-16",
     "2026-10-15",
     "2026-10-14",
@@ -88,13 +89,12 @@
     "2026-07-16",
     "2026-07-15",
     "2026-07-14",
-    "2026-07-13",
-    "2026-07-12"
+    "2026-07-13"
   ],
-  "latest_date": "2026-10-16",
-  "latest_repo_count": 324,
+  "latest_date": "2026-10-17",
+  "latest_repo_count": 334,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-16T00:02:08.242997",
+  "updated_at": "2026-10-17T00:08:05.264405",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -7503,6 +7503,63 @@
           "name": "debpalash/VoiceStudio",
           "stars": 69032,
           "stars_today": 3024
+        }
+      ]
+    },
+    "2026-10-17": {
+      "repo_count": 334,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "anthropics/claude-plugins-official",
+          "stars": 40522,
+          "stars_today": 1552
+        },
+        {
+          "name": "K-Dense-AI/scientific-agent-skills",
+          "stars": 51484,
+          "stars_today": 1158
+        },
+        {
+          "name": "affaan-m/ECC",
+          "stars": 281489,
+          "stars_today": 1057
+        },
+        {
+          "name": "HKUDS/CLI-Anything",
+          "stars": 53485,
+          "stars_today": 281
+        },
+        {
+          "name": "mksglu/context-mode",
+          "stars": 30221,
+          "stars_today": 449
         }
       ]
     }
