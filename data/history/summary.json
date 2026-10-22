@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-22",
     "2026-10-21",
     "2026-10-20",
     "2026-10-18",
@@ -88,13 +89,12 @@
     "2026-07-20",
     "2026-07-19",
     "2026-07-18",
-    "2026-07-17",
-    "2026-07-16"
+    "2026-07-17"
   ],
-  "latest_date": "2026-10-21",
-  "latest_repo_count": 322,
+  "latest_date": "2026-10-22",
+  "latest_repo_count": 314,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-21T00:21:47.287735",
+  "updated_at": "2026-10-22T00:23:33.917015",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -7731,6 +7731,63 @@
           "name": "Comfy-Org/ComfyUI",
           "stars": 140745,
           "stars_today": 1206
+        }
+      ]
+    },
+    "2026-10-22": {
+      "repo_count": 314,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "cloudflare/security-audit-skill",
+          "stars": 36435,
+          "stars_today": 2012
+        },
+        {
+          "name": "vllm-project/vllm",
+          "stars": 94859,
+          "stars_today": 441
+        },
+        {
+          "name": "stablyai/orca",
+          "stars": 101225,
+          "stars_today": 1541
+        },
+        {
+          "name": "headroomlabs-ai/headroom",
+          "stars": 77247,
+          "stars_today": 474
+        },
+        {
+          "name": "DietrichGebert/ponytail",
+          "stars": 171607,
+          "stars_today": 2079
         }
       ]
     }
