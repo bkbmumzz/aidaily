@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-23",
     "2026-10-22",
     "2026-10-21",
     "2026-10-20",
@@ -88,13 +89,12 @@
     "2026-07-21",
     "2026-07-20",
     "2026-07-19",
-    "2026-07-18",
-    "2026-07-17"
+    "2026-07-18"
   ],
-  "latest_date": "2026-10-22",
-  "latest_repo_count": 314,
+  "latest_date": "2026-10-23",
+  "latest_repo_count": 316,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-22T00:23:33.917015",
+  "updated_at": "2026-10-23T00:22:29.277132",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -7788,6 +7788,63 @@
           "name": "DietrichGebert/ponytail",
           "stars": 171607,
           "stars_today": 2079
+        }
+      ]
+    },
+    "2026-10-23": {
+      "repo_count": 316,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "php/php-src",
+          "stars": 41145,
+          "stars_today": 287
+        },
+        {
+          "name": "anthropics/knowledge-work-plugins",
+          "stars": 31583,
+          "stars_today": 303
+        },
+        {
+          "name": "DietrichGebert/ponytail",
+          "stars": 173442,
+          "stars_today": 1948
+        },
+        {
+          "name": "cloudflare/security-audit-skill",
+          "stars": 39542,
+          "stars_today": 2979
+        },
+        {
+          "name": "Graphify-Labs/graphify",
+          "stars": 132929,
+          "stars_today": 1408
         }
       ]
     }
