@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-25",
     "2026-10-24",
     "2026-10-23",
     "2026-10-22",
@@ -88,13 +89,12 @@
     "2026-07-23",
     "2026-07-22",
     "2026-07-21",
-    "2026-07-20",
-    "2026-07-19"
+    "2026-07-20"
   ],
-  "latest_date": "2026-10-24",
-  "latest_repo_count": 339,
+  "latest_date": "2026-10-25",
+  "latest_repo_count": 321,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-24T23:58:02.625044",
+  "updated_at": "2026-10-25T23:44:54.038941",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -7902,6 +7902,63 @@
           "name": "luongnv89/claude-howto",
           "stars": 44545,
           "stars_today": 442
+        }
+      ]
+    },
+    "2026-10-25": {
+      "repo_count": 321,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "makecindy/cindy",
+          "stars": 4822,
+          "stars_today": 677
+        },
+        {
+          "name": "Nutlope/hallmark",
+          "stars": 33696,
+          "stars_today": 1359
+        },
+        {
+          "name": "debpalash/VoiceStudio",
+          "stars": 86750,
+          "stars_today": 1588
+        },
+        {
+          "name": "pbakaus/impeccable",
+          "stars": 87653,
+          "stars_today": 1113
+        },
+        {
+          "name": "pollen-robotics/microduck",
+          "stars": 11608,
+          "stars_today": 657
         }
       ]
     }
