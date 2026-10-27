@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-27",
     "2026-10-25",
     "2026-10-24",
     "2026-10-23",
@@ -88,13 +89,12 @@
     "2026-07-24",
     "2026-07-23",
     "2026-07-22",
-    "2026-07-21",
-    "2026-07-20"
+    "2026-07-21"
   ],
-  "latest_date": "2026-10-25",
+  "latest_date": "2026-10-27",
   "latest_repo_count": 321,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-25T23:44:54.038941",
+  "updated_at": "2026-10-27T01:04:30.338434",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -7959,6 +7959,63 @@
           "name": "pollen-robotics/microduck",
           "stars": 11608,
           "stars_today": 657
+        }
+      ]
+    },
+    "2026-10-27": {
+      "repo_count": 321,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "Nutlope/hallmark",
+          "stars": 36341,
+          "stars_today": 2244
+        },
+        {
+          "name": "TauricResearch/TradingAgents",
+          "stars": 116105,
+          "stars_today": 1395
+        },
+        {
+          "name": "JetBrains/thinkrail",
+          "stars": 2905,
+          "stars_today": 1173
+        },
+        {
+          "name": "makecindy/cindy",
+          "stars": 6484,
+          "stars_today": 1296
+        },
+        {
+          "name": "affaan-m/ECC",
+          "stars": 289850,
+          "stars_today": 896
         }
       ]
     }
