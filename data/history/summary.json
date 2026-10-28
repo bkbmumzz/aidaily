@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-28",
     "2026-10-27",
     "2026-10-25",
     "2026-10-24",
@@ -88,13 +89,12 @@
     "2026-07-25",
     "2026-07-24",
     "2026-07-23",
-    "2026-07-22",
-    "2026-07-21"
+    "2026-07-22"
   ],
-  "latest_date": "2026-10-27",
-  "latest_repo_count": 321,
+  "latest_date": "2026-10-28",
+  "latest_repo_count": 327,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-27T01:04:30.338434",
+  "updated_at": "2026-10-28T00:55:47.859759",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8016,6 +8016,63 @@
           "name": "affaan-m/ECC",
           "stars": 289850,
           "stars_today": 896
+        }
+      ]
+    },
+    "2026-10-28": {
+      "repo_count": 327,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "elayadesign/ai-design-skills",
+          "stars": 9339,
+          "stars_today": 1395
+        },
+        {
+          "name": "Nutlope/hallmark",
+          "stars": 39005,
+          "stars_today": 2830
+        },
+        {
+          "name": "nightly-labs/openbot",
+          "stars": 2440,
+          "stars_today": 777
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 306441,
+          "stars_today": 617
+        },
+        {
+          "name": "pbakaus/impeccable",
+          "stars": 90527,
+          "stars_today": 1449
         }
       ]
     }
