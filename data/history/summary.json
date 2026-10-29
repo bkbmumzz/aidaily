@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-29",
     "2026-10-28",
     "2026-10-27",
     "2026-10-25",
@@ -88,13 +89,12 @@
     "2026-07-26",
     "2026-07-25",
     "2026-07-24",
-    "2026-07-23",
-    "2026-07-22"
+    "2026-07-23"
   ],
-  "latest_date": "2026-10-28",
-  "latest_repo_count": 327,
+  "latest_date": "2026-10-29",
+  "latest_repo_count": 315,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-28T00:55:47.859759",
+  "updated_at": "2026-10-29T01:30:16.575336",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8073,6 +8073,63 @@
           "name": "pbakaus/impeccable",
           "stars": 90527,
           "stars_today": 1449
+        }
+      ]
+    },
+    "2026-10-29": {
+      "repo_count": 315,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "JetBrains/thinkrail",
+          "stars": 5095,
+          "stars_today": 1068
+        },
+        {
+          "name": "elayadesign/ai-design-skills",
+          "stars": 11151,
+          "stars_today": 2139
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 307466,
+          "stars_today": 1095
+        },
+        {
+          "name": "HKUDS/DeepTutor",
+          "stars": 48040,
+          "stars_today": 2371
+        },
+        {
+          "name": "macro-inc/macro",
+          "stars": 5432,
+          "stars_today": 117
         }
       ]
     }
