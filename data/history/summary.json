@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-31",
     "2026-10-30",
     "2026-10-29",
     "2026-10-28",
@@ -88,13 +89,12 @@
     "2026-07-28",
     "2026-07-27",
     "2026-07-26",
-    "2026-07-25",
-    "2026-07-24"
+    "2026-07-25"
   ],
-  "latest_date": "2026-10-30",
-  "latest_repo_count": 337,
+  "latest_date": "2026-10-31",
+  "latest_repo_count": 340,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-30T01:31:23.465374",
+  "updated_at": "2026-10-31T01:23:33.164081",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8187,6 +8187,63 @@
           "name": "milind-soni/OpenMausBot",
           "stars": 7498,
           "stars_today": 1199
+        }
+      ]
+    },
+    "2026-10-31": {
+      "repo_count": 340,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "thedotmack/claude-mem",
+          "stars": 106281,
+          "stars_today": 1140
+        },
+        {
+          "name": "milind-soni/OpenMausBot",
+          "stars": 8668,
+          "stars_today": 895
+        },
+        {
+          "name": "pbakaus/impeccable",
+          "stars": 97091,
+          "stars_today": 2300
+        },
+        {
+          "name": "CopilotKit/OpenBot",
+          "stars": 8805,
+          "stars_today": 706
+        },
+        {
+          "name": "Renhuai123/ziwei-doushu",
+          "stars": 11223,
+          "stars_today": 1126
         }
       ]
     }
