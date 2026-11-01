@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-01",
     "2026-10-31",
     "2026-10-30",
     "2026-10-29",
@@ -88,13 +89,12 @@
     "2026-07-29",
     "2026-07-28",
     "2026-07-27",
-    "2026-07-26",
-    "2026-07-25"
+    "2026-07-26"
   ],
-  "latest_date": "2026-10-31",
-  "latest_repo_count": 340,
+  "latest_date": "2026-11-01",
+  "latest_repo_count": 328,
   "latest_issue_count": 40,
-  "updated_at": "2026-10-31T01:23:33.164081",
+  "updated_at": "2026-11-01T00:38:50.477142",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8244,6 +8244,63 @@
           "name": "Renhuai123/ziwei-doushu",
           "stars": 11223,
           "stars_today": 1126
+        }
+      ]
+    },
+    "2026-11-01": {
+      "repo_count": 328,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "thedotmack/claude-mem",
+          "stars": 107863,
+          "stars_today": 1723
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 308379,
+          "stars_today": 883
+        },
+        {
+          "name": "Donchitos/Claude-Code-Game-Studios",
+          "stars": 31166,
+          "stars_today": 742
+        },
+        {
+          "name": "pingdotgg/t3code",
+          "stars": 35562,
+          "stars_today": 1148
+        },
+        {
+          "name": "Renhuai123/ziwei-doushu",
+          "stars": 12263,
+          "stars_today": 1092
         }
       ]
     }
