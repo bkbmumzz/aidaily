@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-06",
     "2026-11-05",
     "2026-11-04",
     "2026-11-03",
@@ -88,13 +89,12 @@
     "2026-08-03",
     "2026-08-02",
     "2026-08-01",
-    "2026-07-31",
-    "2026-07-30"
+    "2026-07-31"
   ],
-  "latest_date": "2026-11-05",
-  "latest_repo_count": 336,
+  "latest_date": "2026-11-06",
+  "latest_repo_count": 332,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-05T01:58:48.224974",
+  "updated_at": "2026-11-06T01:59:00.055375",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8529,6 +8529,63 @@
           "name": "thedotmack/claude-mem",
           "stars": 112894,
           "stars_today": 1172
+        }
+      ]
+    },
+    "2026-11-06": {
+      "repo_count": 332,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "NVIDIA/auto-ontology",
+          "stars": 7437,
+          "stars_today": 2679
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 315310,
+          "stars_today": 2071
+        },
+        {
+          "name": "garrytan/gstack",
+          "stars": 139971,
+          "stars_today": 612
+        },
+        {
+          "name": "Usagi-org/ai-goofish-monitor",
+          "stars": 17605,
+          "stars_today": 240
+        },
+        {
+          "name": "D4Vinci/Scrapling",
+          "stars": 98035,
+          "stars_today": 1655
         }
       ]
     }
