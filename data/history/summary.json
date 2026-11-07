@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-07",
     "2026-11-06",
     "2026-11-05",
     "2026-11-04",
@@ -88,13 +89,12 @@
     "2026-08-04",
     "2026-08-03",
     "2026-08-02",
-    "2026-08-01",
-    "2026-07-31"
+    "2026-08-01"
   ],
-  "latest_date": "2026-11-06",
-  "latest_repo_count": 332,
+  "latest_date": "2026-11-07",
+  "latest_repo_count": 367,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-06T01:59:00.055375",
+  "updated_at": "2026-11-07T01:33:15.214296",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8586,6 +8586,63 @@
           "name": "D4Vinci/Scrapling",
           "stars": 98035,
           "stars_today": 1655
+        }
+      ]
+    },
+    "2026-11-07": {
+      "repo_count": 367,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "zed-industries/zed",
+          "stars": 93650,
+          "stars_today": 306
+        },
+        {
+          "name": "NVIDIA/auto-ontology",
+          "stars": 9069,
+          "stars_today": 2015
+        },
+        {
+          "name": "rails/rails",
+          "stars": 59030,
+          "stars_today": 142
+        },
+        {
+          "name": "mpv-player/mpv",
+          "stars": 37882,
+          "stars_today": 37
+        },
+        {
+          "name": "rust-lang/rust",
+          "stars": 121459,
+          "stars_today": 192
         }
       ]
     }
