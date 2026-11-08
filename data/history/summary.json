@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-08",
     "2026-11-07",
     "2026-11-06",
     "2026-11-05",
@@ -88,13 +89,12 @@
     "2026-08-05",
     "2026-08-04",
     "2026-08-03",
-    "2026-08-02",
-    "2026-08-01"
+    "2026-08-02"
   ],
-  "latest_date": "2026-11-07",
-  "latest_repo_count": 367,
+  "latest_date": "2026-11-08",
+  "latest_repo_count": 335,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-07T01:33:15.214296",
+  "updated_at": "2026-11-08T01:01:36.457965",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8643,6 +8643,63 @@
           "name": "rust-lang/rust",
           "stars": 121459,
           "stars_today": 192
+        }
+      ]
+    },
+    "2026-11-08": {
+      "repo_count": 335,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "vercel-labs/agent-browser",
+          "stars": 46830,
+          "stars_today": 190
+        },
+        {
+          "name": "cloudflare/security-audit-skill",
+          "stars": 65741,
+          "stars_today": 2085
+        },
+        {
+          "name": "google/skills",
+          "stars": 23405,
+          "stars_today": 443
+        },
+        {
+          "name": "mattpocock/skills",
+          "stars": 317716,
+          "stars_today": 1100
+        },
+        {
+          "name": "anthropics/skills",
+          "stars": 188790,
+          "stars_today": 390
         }
       ]
     }
