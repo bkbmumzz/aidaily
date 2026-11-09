@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-09",
     "2026-11-08",
     "2026-11-07",
     "2026-11-06",
@@ -88,13 +89,12 @@
     "2026-08-07",
     "2026-08-05",
     "2026-08-04",
-    "2026-08-03",
-    "2026-08-02"
+    "2026-08-03"
   ],
-  "latest_date": "2026-11-08",
-  "latest_repo_count": 335,
+  "latest_date": "2026-11-09",
+  "latest_repo_count": 321,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-08T01:01:36.457965",
+  "updated_at": "2026-11-09T01:23:45.129702",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8700,6 +8700,63 @@
           "name": "anthropics/skills",
           "stars": 188790,
           "stars_today": 390
+        }
+      ]
+    },
+    "2026-11-09": {
+      "repo_count": 321,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "sherlock-project/sherlock",
+          "stars": 103608,
+          "stars_today": 2373
+        },
+        {
+          "name": "dsx-ai-factory/nvke",
+          "stars": 861,
+          "stars_today": 345
+        },
+        {
+          "name": "milind-soni/OpenMausBot",
+          "stars": 18290,
+          "stars_today": 1439
+        },
+        {
+          "name": "anthropics/claude-quickstarts",
+          "stars": 19437,
+          "stars_today": 32
+        },
+        {
+          "name": "vercel-labs/agent-browser",
+          "stars": 47624,
+          "stars_today": 815
         }
       ]
     }
