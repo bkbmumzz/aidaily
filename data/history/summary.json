@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-13",
     "2026-11-12",
     "2026-11-11",
     "2026-11-10",
@@ -88,13 +89,12 @@
     "2026-08-11",
     "2026-08-10",
     "2026-08-09",
-    "2026-08-08",
-    "2026-08-07"
+    "2026-08-08"
   ],
-  "latest_date": "2026-11-12",
-  "latest_repo_count": 322,
+  "latest_date": "2026-11-13",
+  "latest_repo_count": 338,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-12T02:40:39.794146",
+  "updated_at": "2026-11-13T02:21:08.056337",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8928,6 +8928,63 @@
           "name": "addyosmani/agent-skills",
           "stars": 116008,
           "stars_today": 787
+        }
+      ]
+    },
+    "2026-11-13": {
+      "repo_count": 338,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "stars": 3141,
+          "stars_today": 739
+        },
+        {
+          "name": "openai/codex-security",
+          "stars": 12480,
+          "stars_today": 643
+        },
+        {
+          "name": "nvm-sh/nvm",
+          "stars": 96023,
+          "stars_today": 63
+        },
+        {
+          "name": "pookjw/HermesEnabler",
+          "stars": 1559,
+          "stars_today": 218
+        },
+        {
+          "name": "we-promise/sure",
+          "stars": 13976,
+          "stars_today": 967
         }
       ]
     }
