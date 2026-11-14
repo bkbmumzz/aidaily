@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-14",
     "2026-11-13",
     "2026-11-12",
     "2026-11-11",
@@ -88,13 +89,12 @@
     "2026-08-12",
     "2026-08-11",
     "2026-08-10",
-    "2026-08-09",
-    "2026-08-08"
+    "2026-08-09"
   ],
-  "latest_date": "2026-11-13",
-  "latest_repo_count": 338,
+  "latest_date": "2026-11-14",
+  "latest_repo_count": 321,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-13T02:21:08.056337",
+  "updated_at": "2026-11-14T01:58:13.871827",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -8985,6 +8985,63 @@
           "name": "we-promise/sure",
           "stars": 13976,
           "stars_today": 967
+        }
+      ]
+    },
+    "2026-11-14": {
+      "repo_count": 321,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "alibaba/open-code-review",
+          "stars": 50657,
+          "stars_today": 215
+        },
+        {
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "stars": 4901,
+          "stars_today": 1925
+        },
+        {
+          "name": "openai/codex-security",
+          "stars": 13154,
+          "stars_today": 751
+        },
+        {
+          "name": "ZhuLinsen/daily_stock_analysis",
+          "stars": 71650,
+          "stars_today": 256
+        },
+        {
+          "name": "we-promise/sure",
+          "stars": 14774,
+          "stars_today": 925
         }
       ]
     }
