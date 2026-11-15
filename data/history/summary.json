@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-15",
     "2026-11-14",
     "2026-11-13",
     "2026-11-12",
@@ -88,13 +89,12 @@
     "2026-08-13",
     "2026-08-12",
     "2026-08-11",
-    "2026-08-10",
-    "2026-08-09"
+    "2026-08-10"
   ],
-  "latest_date": "2026-11-14",
-  "latest_repo_count": 321,
+  "latest_date": "2026-11-15",
+  "latest_repo_count": 334,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-14T01:58:13.871827",
+  "updated_at": "2026-11-15T01:30:07.859505",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -9042,6 +9042,63 @@
           "name": "we-promise/sure",
           "stars": 14774,
           "stars_today": 925
+        }
+      ]
+    },
+    "2026-11-15": {
+      "repo_count": 334,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "backnotprop/plannotator",
+          "stars": 11149,
+          "stars_today": 408
+        },
+        {
+          "name": "GoogleChrome/modern-web-guidance-src",
+          "stars": 6079,
+          "stars_today": 1231
+        },
+        {
+          "name": "tradermonty/claude-trading-skills",
+          "stars": 4837,
+          "stars_today": 553
+        },
+        {
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "stars": 56324,
+          "stars_today": 664
+        },
+        {
+          "name": "alibaba/open-code-review",
+          "stars": 51455,
+          "stars_today": 893
         }
       ]
     }
