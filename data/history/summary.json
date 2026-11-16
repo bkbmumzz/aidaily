@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-16",
     "2026-11-15",
     "2026-11-14",
     "2026-11-13",
@@ -88,13 +89,12 @@
     "2026-08-14",
     "2026-08-13",
     "2026-08-12",
-    "2026-08-11",
-    "2026-08-10"
+    "2026-08-11"
   ],
-  "latest_date": "2026-11-15",
-  "latest_repo_count": 334,
+  "latest_date": "2026-11-16",
+  "latest_repo_count": 322,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-15T01:30:07.859505",
+  "updated_at": "2026-11-16T01:32:57.793208",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -9099,6 +9099,63 @@
           "name": "alibaba/open-code-review",
           "stars": 51455,
           "stars_today": 893
+        }
+      ]
+    },
+    "2026-11-16": {
+      "repo_count": 322,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "dream-num/univer",
+          "stars": 25889,
+          "stars_today": 988
+        },
+        {
+          "name": "ag-ui-protocol/ag-ui",
+          "stars": 17897,
+          "stars_today": 355
+        },
+        {
+          "name": "google-labs-code/stitch-skills",
+          "stars": 9317,
+          "stars_today": 247
+        },
+        {
+          "name": "backnotprop/plannotator",
+          "stars": 11864,
+          "stars_today": 866
+        },
+        {
+          "name": "ChromeDevTools/chrome-devtools-mcp",
+          "stars": 56972,
+          "stars_today": 717
         }
       ]
     }
