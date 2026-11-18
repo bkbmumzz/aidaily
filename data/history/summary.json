@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-18",
     "2026-11-17",
     "2026-11-16",
     "2026-11-15",
@@ -88,13 +89,12 @@
     "2026-08-16",
     "2026-08-15",
     "2026-08-14",
-    "2026-08-13",
-    "2026-08-12"
+    "2026-08-13"
   ],
-  "latest_date": "2026-11-17",
-  "latest_repo_count": 319,
+  "latest_date": "2026-11-18",
+  "latest_repo_count": 330,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-17T04:18:30.833015",
+  "updated_at": "2026-11-18T03:17:47.693336",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -9213,6 +9213,63 @@
           "name": "elementalsouls/Claude-BugHunter",
           "stars": 7580,
           "stars_today": 1094
+        }
+      ]
+    },
+    "2026-11-18": {
+      "repo_count": 330,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "elementalsouls/Claude-BugHunter",
+          "stars": 9529,
+          "stars_today": 1005
+        },
+        {
+          "name": "mvanhorn/last30days-skill",
+          "stars": 69185,
+          "stars_today": 696
+        },
+        {
+          "name": "alibaba/open-code-review",
+          "stars": 53825,
+          "stars_today": 763
+        },
+        {
+          "name": "Tencent/LoopForge",
+          "stars": 3343,
+          "stars_today": 591
+        },
+        {
+          "name": "dream-num/univer",
+          "stars": 28969,
+          "stars_today": 1774
         }
       ]
     }
