@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-19",
     "2026-11-18",
     "2026-11-17",
     "2026-11-16",
@@ -88,13 +89,12 @@
     "2026-08-17",
     "2026-08-16",
     "2026-08-15",
-    "2026-08-14",
-    "2026-08-13"
+    "2026-08-14"
   ],
-  "latest_date": "2026-11-18",
+  "latest_date": "2026-11-19",
   "latest_repo_count": 330,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-18T03:17:47.693336",
+  "updated_at": "2026-11-19T02:56:16.664191",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -9270,6 +9270,63 @@
           "name": "dream-num/univer",
           "stars": 28969,
           "stars_today": 1774
+        }
+      ]
+    },
+    "2026-11-19": {
+      "repo_count": 330,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "cursor/plugins",
+          "stars": 17253,
+          "stars_today": 314
+        },
+        {
+          "name": "HKUDS/CLI-Anything",
+          "stars": 59845,
+          "stars_today": 389
+        },
+        {
+          "name": "mvanhorn/last30days-skill",
+          "stars": 70101,
+          "stars_today": 1059
+        },
+        {
+          "name": "getarcaneapp/arcane",
+          "stars": 9854,
+          "stars_today": 547
+        },
+        {
+          "name": "NVIDIA/SkillEvaluator",
+          "stars": 3777,
+          "stars_today": 312
         }
       ]
     }
