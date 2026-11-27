@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-27",
     "2026-11-26",
     "2026-11-25",
     "2026-11-24",
@@ -88,13 +89,12 @@
     "2026-08-25",
     "2026-08-24",
     "2026-08-23",
-    "2026-08-22",
-    "2026-08-21"
+    "2026-08-22"
   ],
-  "latest_date": "2026-11-26",
-  "latest_repo_count": 348,
+  "latest_date": "2026-11-27",
+  "latest_repo_count": 352,
   "latest_issue_count": 40,
-  "updated_at": "2026-11-26T03:55:40.382656",
+  "updated_at": "2026-11-27T03:55:40.767159",
   "daily_stats": {
     "2026-06-02": {
       "repo_count": 352,
@@ -9726,6 +9726,63 @@
           "name": "cursor/plugins",
           "stars": 19576,
           "stars_today": 416
+        }
+      ]
+    },
+    "2026-11-27": {
+      "repo_count": 352,
+      "issue_count": 40,
+      "trending_languages": [
+        "daily",
+        "weekly",
+        "monthly",
+        "python_daily",
+        "python_weekly",
+        "python_monthly",
+        "javascript_daily",
+        "javascript_weekly",
+        "javascript_monthly",
+        "typescript_daily",
+        "typescript_weekly",
+        "typescript_monthly",
+        "go_daily",
+        "go_weekly",
+        "go_monthly",
+        "rust_daily",
+        "rust_weekly",
+        "rust_monthly",
+        "java_daily",
+        "java_weekly",
+        "java_monthly",
+        "c++_daily",
+        "c++_weekly",
+        "c++_monthly"
+      ],
+      "top_repos": [
+        {
+          "name": "elementalsouls/Claude-BugHunter",
+          "stars": 24809,
+          "stars_today": 1597
+        },
+        {
+          "name": "obra/superpowers",
+          "stars": 327598,
+          "stars_today": 854
+        },
+        {
+          "name": "HKUDS/CLI-Anything",
+          "stars": 66476,
+          "stars_today": 746
+        },
+        {
+          "name": "jingyaogong/minimind",
+          "stars": 71786,
+          "stars_today": 702
+        },
+        {
+          "name": "cursor/plugins",
+          "stars": 19821,
+          "stars_today": 270
         }
       ]
     }
